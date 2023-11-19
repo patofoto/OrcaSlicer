@@ -1,0 +1,23 @@
+{
+    "bottom_shell_thickness": "0.8",
+    "bottom_solid_infill_flow_ratio": "0.95",
+    "default_jerk": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "initial_layer_infill_speed": "10",
+    "initial_layer_speed": "5",
+    "inner_wall_jerk": "1",
+    "inner_wall_speed": "120",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @ Basic Pato",
+    "outer_wall_jerk": "1",
+    "print_settings_id": "0.20mm Standard @ Basic Pato",
+    "skirt_loops": "3",
+    "skirt_speed": "5",
+    "slow_down_layers": "1",
+    "sparse_infill_pattern": "cubic",
+    "top_shell_layers": "3",
+    "top_solid_infill_flow_ratio": "0.95",
+    "version": "1.8.0.0",
+    "wall_transition_angle": "25"
+}

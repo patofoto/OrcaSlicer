@@ -1,0 +1,48 @@
+[2023-11-18 15:32:23.658785 -05:00] [I] [T 735286]: init log
+[2023-11-18 15:32:23.658810 -05:00] [I] [T 735286]: Version: 01.07.07.07
+[2023-11-18 15:32:23.658822 -05:00] [I] [T 735286]: Agent: set_cert_dir_name, dir=/Applications/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2023-11-18 15:32:23.658897 -05:00] [I] [T 735286]: set_on_server_connected_fn
+[2023-11-18 15:32:23.658898 -05:00] [I] [T 735286]: set_on_printer_connected_fn
+[2023-11-18 15:32:23.658898 -05:00] [I] [T 735286]: set_get_country_code_fn
+[2023-11-18 15:32:23.658899 -05:00] [I] [T 735286]: set_on_local_connect_fn
+[2023-11-18 15:32:23.658910 -05:00] [I] [T 735286]: set_on_message_fn
+[2023-11-18 15:32:23.658911 -05:00] [I] [T 735286]: set_on_local_message_fn
+[2023-11-18 15:32:23.658911 -05:00] [I] [T 735286]: set_queue_on_main_fn
+[2023-11-18 15:32:23.659094 -05:00] [I] [T 735286]: set host to https://api.bambulab.com/v1
+[2023-11-18 15:32:23.659094 -05:00] [I] [T 735286]: region update iot = https://api.bambulab.com/v1
+[2023-11-18 15:32:23.659095 -05:00] [I] [T 735286]: region update api = https://api.bambulab.com/
+[2023-11-18 15:32:23.659095 -05:00] [I] [T 735286]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2023-11-18 15:32:23.659095 -05:00] [I] [T 735286]: region update tutk = US
+[2023-11-18 15:32:23.659095 -05:00] [I] [T 735286]: region update base domain = bambulab.com
+[2023-11-18 15:32:23.659096 -05:00] [I] [T 735286]: region update environment = 
+[2023-11-18 15:32:23.659096 -05:00] [I] [T 735286]: region update wifi_code = US
+[2023-11-18 15:32:23.659096 -05:00] [I] [T 735286]: region update design = https://bambulab.com
+[2023-11-18 15:32:23.659096 -05:00] [I] [T 735286]: Agent: load_config
+[2023-11-18 15:32:23.659469 -05:00] [I] [T 735286]: load_user_info
+[2023-11-18 15:32:23.659475 -05:00] [I] [T 735286]: save_user_info
+[2023-11-18 15:32:23.659476 -05:00] [I] [T 735286]: Agent: save_config
+[2023-11-18 15:32:26.121335 -05:00] [I] [T 735286]: set_on_http_error_fn
+[2023-11-18 15:32:26.121341 -05:00] [I] [T 735286]: ssdp: stop()
+[2023-11-18 15:32:26.121425 -05:00] [I] [T 735286]: Network Interface List: 2
+[2023-11-18 15:32:26.149838 -05:00] [I] [T 735286]: connect_cloud_mqtt
+[2023-11-18 15:32:26.150575 -05:00] [I] [T 735286]: connect_cloud_mqtt
+[2023-11-18 15:32:26.150576 -05:00] [I] [T 735286]: mqtt_cli is exists!
+[2023-11-18 15:32:26.150590 -05:00] [E] [T 735286]: bambu_network_connect_server , connect_server returned error:-1
+[2023-11-18 15:32:26.548817 -05:00] [I] [T 735587]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:244513175:2942
+[2023-11-18 15:32:26.548861 -05:00] [I] [T 735587]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:244513175:2942
+[2023-11-18 15:32:26.548864 -05:00] [I] [T 735587]: cloud_conn_callback::connected!
+[2023-11-18 15:32:26.548992 -05:00] [I] [T 735286]: set monitor machine = 
+[2023-11-18 15:32:26.548995 -05:00] [I] [T 735286]: Agent: save_config
+[2023-11-18 15:32:26.549351 -05:00] [I] [T 735286]: set monitor machine = 
+[2023-11-18 15:32:26.549353 -05:00] [I] [T 735286]: Agent: save_config
+[2023-11-18 15:32:26.549905 -05:00] [I] [T 735286]: set monitor machine = 
+[2023-11-18 15:32:26.549913 -05:00] [I] [T 735286]: Agent: save_config
+[2023-11-18 15:32:27.701128 -05:00] [I] [T 735336]: error = , body = {"message":"setting name conflict: My Generic PLA - Copy","code":12,"error":"IOT_ERROR_RESOURCE_CONFLICT","setting_id":"PF65603855175076706","update_time":null}, code = 409
+[2023-11-18 15:35:16.191536 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 15:47:23.491029 -05:00] [I] [T 735286]: stop_subscribe, machine = , module = app
+[2023-11-18 15:48:39.063635 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 15:50:57.906708 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 15:57:30.263798 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 16:48:03.112181 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 18:10:56.710016 -05:00] [I] [T 735336]: put setting success!
+[2023-11-18 19:31:50.206170 -05:00] [I] [T 735286]: Agent: save_config

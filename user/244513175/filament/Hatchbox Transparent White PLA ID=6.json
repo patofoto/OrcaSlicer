@@ -1,0 +1,33 @@
+{
+    "default_filament_colour": [
+        "#EBEBEB"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "24"
+    ],
+    "filament_end_gcode": [
+        "; filament end gcode \nCLEAR_ACTIVE_SPOOL"
+    ],
+    "filament_flow_ratio": [
+        "1.11"
+    ],
+    "filament_settings_id": [
+        "Hatchbox Transparent White PLA ID=6"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_ACTIVE_SPOOL ID=6"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "name": "Hatchbox Transparent White PLA ID=6",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.6.0.0"
+}

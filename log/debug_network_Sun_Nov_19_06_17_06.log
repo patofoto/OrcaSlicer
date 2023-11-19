@@ -1,0 +1,31 @@
+[2023-11-19 06:17:06.816534 -05:00] [I] [T 190398]: init log
+[2023-11-19 06:17:06.816540 -05:00] [I] [T 190398]: Version: 01.07.07.07
+[2023-11-19 06:17:06.816543 -05:00] [I] [T 190398]: Agent: set_cert_dir_name, dir=/Applications/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2023-11-19 06:17:06.816587 -05:00] [I] [T 190398]: set_on_server_connected_fn
+[2023-11-19 06:17:06.816588 -05:00] [I] [T 190398]: set_on_printer_connected_fn
+[2023-11-19 06:17:06.816588 -05:00] [I] [T 190398]: set_get_country_code_fn
+[2023-11-19 06:17:06.816589 -05:00] [I] [T 190398]: set_on_local_connect_fn
+[2023-11-19 06:17:06.816600 -05:00] [I] [T 190398]: set_on_message_fn
+[2023-11-19 06:17:06.816600 -05:00] [I] [T 190398]: set_on_local_message_fn
+[2023-11-19 06:17:06.816601 -05:00] [I] [T 190398]: set_queue_on_main_fn
+[2023-11-19 06:17:06.816607 -05:00] [I] [T 190398]: set host to https://api.bambulab.com/v1
+[2023-11-19 06:17:06.816607 -05:00] [I] [T 190398]: region update iot = https://api.bambulab.com/v1
+[2023-11-19 06:17:06.816608 -05:00] [I] [T 190398]: region update api = https://api.bambulab.com/
+[2023-11-19 06:17:06.816608 -05:00] [I] [T 190398]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2023-11-19 06:17:06.816608 -05:00] [I] [T 190398]: region update tutk = US
+[2023-11-19 06:17:06.816608 -05:00] [I] [T 190398]: region update base domain = bambulab.com
+[2023-11-19 06:17:06.816609 -05:00] [I] [T 190398]: region update environment = 
+[2023-11-19 06:17:06.816609 -05:00] [I] [T 190398]: region update wifi_code = US
+[2023-11-19 06:17:06.816609 -05:00] [I] [T 190398]: region update design = https://bambulab.com
+[2023-11-19 06:17:06.816609 -05:00] [I] [T 190398]: Agent: load_config
+[2023-11-19 06:17:06.816666 -05:00] [I] [T 190398]: load_user_info
+[2023-11-19 06:17:06.816673 -05:00] [I] [T 190398]: save_user_info
+[2023-11-19 06:17:06.816674 -05:00] [I] [T 190398]: Agent: save_config
+[2023-11-19 06:17:09.195645 -05:00] [I] [T 190398]: set_on_http_error_fn
+[2023-11-19 06:17:09.195651 -05:00] [I] [T 190398]: ssdp: stop()
+[2023-11-19 06:17:09.195721 -05:00] [I] [T 190398]: Network Interface List: 2
+[2023-11-19 06:17:09.225507 -05:00] [I] [T 190398]: connect_cloud_mqtt
+[2023-11-19 06:17:09.225974 -05:00] [I] [T 190398]: connect_cloud_mqtt
+[2023-11-19 06:17:09.225975 -05:00] [I] [T 190398]: mqtt_cli is exists!
+[2023-11-19 06:17:09.225978 -05:00] [E] [T 190398]: bambu_network_connect_server , connect_server returned error:-1
+[2023-11-19 06:17:09.290638 -05:00] [I] [T 190398]: Agent: save_config
