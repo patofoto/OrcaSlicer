@@ -1,0 +1,41 @@
+[2023-11-30 06:26:02.971190 -05:00] [I] [T 1508152]: init log
+[2023-11-30 06:26:02.971199 -05:00] [I] [T 1508152]: Version: 01.07.07.07
+[2023-11-30 06:26:02.971201 -05:00] [I] [T 1508152]: Agent: set_cert_dir_name, dir=/Applications/OrcaSlicer.app/Contents/Resources/cert, name=slicer_base64.cer
+[2023-11-30 06:26:02.971225 -05:00] [I] [T 1508152]: set_on_server_connected_fn
+[2023-11-30 06:26:02.971226 -05:00] [I] [T 1508152]: set_on_printer_connected_fn
+[2023-11-30 06:26:02.971227 -05:00] [I] [T 1508152]: set_get_country_code_fn
+[2023-11-30 06:26:02.971228 -05:00] [I] [T 1508152]: set_on_local_connect_fn
+[2023-11-30 06:26:02.971229 -05:00] [I] [T 1508152]: set_on_message_fn
+[2023-11-30 06:26:02.971230 -05:00] [I] [T 1508152]: set_on_local_message_fn
+[2023-11-30 06:26:02.971231 -05:00] [I] [T 1508152]: set_queue_on_main_fn
+[2023-11-30 06:26:02.971237 -05:00] [I] [T 1508152]: set host to https://api.bambulab.com/v1
+[2023-11-30 06:26:02.971237 -05:00] [I] [T 1508152]: region update iot = https://api.bambulab.com/v1
+[2023-11-30 06:26:02.971237 -05:00] [I] [T 1508152]: region update api = https://api.bambulab.com/
+[2023-11-30 06:26:02.971238 -05:00] [I] [T 1508152]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2023-11-30 06:26:02.971238 -05:00] [I] [T 1508152]: region update tutk = US
+[2023-11-30 06:26:02.971238 -05:00] [I] [T 1508152]: region update base domain = bambulab.com
+[2023-11-30 06:26:02.971238 -05:00] [I] [T 1508152]: region update environment = 
+[2023-11-30 06:26:02.971239 -05:00] [I] [T 1508152]: region update wifi_code = US
+[2023-11-30 06:26:02.971239 -05:00] [I] [T 1508152]: region update design = https://bambulab.com
+[2023-11-30 06:26:02.971239 -05:00] [I] [T 1508152]: Agent: load_config
+[2023-11-30 06:26:02.971480 -05:00] [I] [T 1508152]: load_user_info
+[2023-11-30 06:26:02.971485 -05:00] [I] [T 1508152]: save_user_info
+[2023-11-30 06:26:02.971487 -05:00] [I] [T 1508152]: Agent: save_config
+[2023-11-30 06:26:05.764869 -05:00] [I] [T 1508152]: set_on_http_error_fn
+[2023-11-30 06:26:05.764875 -05:00] [I] [T 1508152]: ssdp: stop()
+[2023-11-30 06:26:05.764938 -05:00] [I] [T 1508152]: Network Interface List: 2
+[2023-11-30 06:26:05.793877 -05:00] [I] [T 1508152]: connect_cloud_mqtt
+[2023-11-30 06:26:05.794320 -05:00] [I] [T 1508152]: connect_cloud_mqtt
+[2023-11-30 06:26:05.794322 -05:00] [I] [T 1508152]: mqtt_cli is exists!
+[2023-11-30 06:26:05.794324 -05:00] [E] [T 1508152]: bambu_network_connect_server , connect_server returned error:-1
+[2023-11-30 06:26:06.246769 -05:00] [I] [T 1508501]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:244513175:6d5e
+[2023-11-30 06:26:06.246828 -05:00] [I] [T 1508501]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:244513175:6d5e
+[2023-11-30 06:26:06.246833 -05:00] [I] [T 1508501]: cloud_conn_callback::connected!
+[2023-11-30 06:26:06.247135 -05:00] [I] [T 1508152]: set monitor machine = 
+[2023-11-30 06:26:06.247140 -05:00] [I] [T 1508152]: Agent: save_config
+[2023-11-30 06:26:06.247563 -05:00] [I] [T 1508152]: set monitor machine = 
+[2023-11-30 06:26:06.247565 -05:00] [I] [T 1508152]: Agent: save_config
+[2023-11-30 06:26:06.247929 -05:00] [I] [T 1508152]: set monitor machine = 
+[2023-11-30 06:26:06.247932 -05:00] [I] [T 1508152]: Agent: save_config
+[2023-11-30 06:26:07.524185 -05:00] [I] [T 1508221]: error = , body = {"message":"setting name conflict: My Generic PLA - Copy","code":12,"error":"IOT_ERROR_RESOURCE_CONFLICT","setting_id":"PF65603855175076706","update_time":null}, code = 409
+[2023-11-30 06:39:08.746972 -05:00] [I] [T 1508152]: Agent: save_config

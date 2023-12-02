@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "manual_filament_change": "1",
+    "name": "Pato's Voron 2.4 350 0.4 nozzle",
+    "nozzle_type": "stainless_steel",
+    "printer_settings_id": "Pato's Voron 2.4 350 0.4 nozzle",
+    "version": "1.8.0.0"
+}
