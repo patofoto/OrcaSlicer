@@ -9,7 +9,7 @@
     "extruder_clearance_height_to_rod": "34",
     "from": "User",
     "inherits": "MyKlipper 0.4 nozzle",
-    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;{layer_z}\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;{layer_z}\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\nM117 Layer {layer_num+1}/[total_layer_count] : {filament_settings_id[0]}",
     "machine_end_gcode": "END_PRINT",
     "machine_max_acceleration_extruding": [
         "500",
@@ -62,7 +62,7 @@
     ],
     "name": "Pato's Ender3v2 Klipper 0.4mm",
     "nozzle_type": "hardened_steel",
-    "print_host": "10.0.10.13",
+    "print_host": "10.0.1.13",
     "printable_area": [
         "0x0",
         "228x0",
@@ -80,5 +80,6 @@
     "retraction_speed": [
         "45"
     ],
+    "time_cost": "3",
     "version": "1.6.0.0"
 }
