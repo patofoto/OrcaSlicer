@@ -1,0 +1,17 @@
+{
+    "brim_type": "brim_ears",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.08mm Extra Fine @Voron",
+    "initial_layer_line_width": "120%",
+    "is_custom_defined": "0",
+    "name": "0.08mm Extra Fine @Voron - Tuning",
+    "print_settings_id": "0.08mm Extra Fine @Voron - Tuning",
+    "skirt_distance": "4",
+    "skirt_loops": "3",
+    "sparse_infill_pattern": "cubic",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
+    "version": "2.0.2.0",
+    "wall_loops": "4"
+}

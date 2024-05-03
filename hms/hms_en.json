@@ -2,6 +2,22 @@
     "device_error": {
         "en": [
             {
+                "ecode": "0500403A",
+                "intro": "The current temperature is too low. In order to protect you and your printer. Printing tasks, moving axis, and other operations are disabled. Please move the printer to an environment above 10°C."
+            },
+            {
+                "ecode": "07008006",
+                "intro": "Unable to feed filament into the extruder. This could be due to entangled filament or a stuck spool. If not, please check if the AMS PTFE tube is connected."
+            },
+            {
+                "ecode": "03008013",
+                "intro": "Printing was paused by the user. You can select \"Resume\" to continue printing."
+            },
+            {
+                "ecode": "03004000",
+                "intro": "Printing stopped because homing Z axis failed."
+            },
+            {
                 "ecode": "05004003",
                 "intro": "Printing stopped because the printer was unable to parse the file. Please resend your print job."
             },
@@ -78,10 +94,6 @@
                 "intro": "Failed to pull out the filament from the toolhead. Please check if the filament is stuck, or the filament is broken inside the extruder or PTFE tube."
             },
             {
-                "ecode": "03004000",
-                "intro": "Printing Stopped because homing Z axis failed."
-            },
-            {
                 "ecode": "03004002",
                 "intro": "Printing Stopped because Auto Bed Leveling failed."
             },
@@ -146,16 +158,8 @@
                 "intro": "Detected build plate is not the same as the Gcode file. Please adjust slicer settings or use the correct plate."
             },
             {
-                "ecode": "03008013",
-                "intro": "Printing was paused manually. You can select \"Resume\" to continue printing."
-            },
-            {
                 "ecode": "03008015",
                 "intro": "The filament has run out, please load new filament in the \"filament\" page."
-            },
-            {
-                "ecode": "07008006",
-                "intro": "Unable to feed filament into the extruder. This could be due to entangled filament or a stuck spool."
             },
             {
                 "ecode": "07018006",
@@ -1066,17 +1070,37 @@
                 "intro": "Heatbed temperature malfunction."
             }
         ],
-        "ver": 202403151230
+        "ver": 202404151030
     },
     "device_hms": {
         "en": [
             {
-                "ecode": "0300010000010008",
-                "intro": "An abnormality occurs during the heating process of the heatbed, the heating modules may be broken."
+                "ecode": "03001A0000020002",
+                "intro": "The nozzle is clogged with filament."
+            },
+            {
+                "ecode": "030002000001000B",
+                "intro": "The nozzle temperature is abnormal. Temperature control system may have an issue."
+            },
+            {
+                "ecode": "030091000001000C",
+                "intro": "The chamber heater 1 has been working at full load for a long time. The temperature control system may have an issue."
             },
             {
                 "ecode": "030001000001000D",
-                "intro": "An abnormality happened in heating modules of heatbed before. To continue to use your printer, please refer to the wiki to troubleshoot."
+                "intro": "An issue occurred when heating the heatbed previously. To continue using your printer, please refer to the wiki to troubleshoot."
+            },
+            {
+                "ecode": "0500030000010024",
+                "intro": "The current temperature is too low. In order to protect you and your printer. Printing task, moving axis and other operations is disabled. Please move the printer to an environment above 10°C."
+            },
+            {
+                "ecode": "03000F0000010001",
+                "intro": "Abnormal accelerometer data detected. Please try to restart the printer."
+            },
+            {
+                "ecode": "0300010000010008",
+                "intro": "An abnormality occurs during the heating process of the heatbed, the heating modules may be broken."
             },
             {
                 "ecode": "030001000001000C",
@@ -1085,14 +1109,6 @@
             {
                 "ecode": "0500020000020006",
                 "intro": "Streaming function error. Please check the network and try again. You can restart or update the printer if the issue persists."
-            },
-            {
-                "ecode": "030091000001000C",
-                "intro": "The chamber heater 1 works at full load for a long time. Temperature control system may be abnormal."
-            },
-            {
-                "ecode": "030002000001000B",
-                "intro": "The nozzle temperature is abnormal. Temperature control system may be abnormal."
             },
             {
                 "ecode": "03000D0000020004",
@@ -1313,10 +1329,6 @@
             {
                 "ecode": "0300110000020002",
                 "intro": "The resonance frequency of the Y axis differs greatly from the last calibration. Please clean the carbon rod and rerun the machine calibration afterward."
-            },
-            {
-                "ecode": "03001A0000020002",
-                "intro": "The nozzle is clogged with filament."
             },
             {
                 "ecode": "12FF200000020007",
@@ -4043,10 +4055,6 @@
                 "intro": "A system hang occurred. Please restart the device."
             },
             {
-                "ecode": "03000F0000010001",
-                "intro": "The accelerometer data is unavailable. The communication connection to the tool head may be broken, or the accelerometer may be damaged."
-            },
-            {
                 "ecode": "0300120000020001",
                 "intro": "The front cover of the toolhead fell off."
             },
@@ -4135,7 +4143,7 @@
                 "intro": "The nozzle temperature is abnormal; the sensor may have an open circuit."
             }
         ],
-        "ver": 202401301630
+        "ver": 202404221830
     },
-    "version": "202403151230"
+    "version": "202404221830"
 }

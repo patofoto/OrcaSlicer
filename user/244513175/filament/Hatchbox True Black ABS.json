@@ -17,6 +17,9 @@
     "filament_settings_id": [
         "Hatchbox True Black ABS"
     ],
+    "filament_shrink": [
+        "99.7%"
+    ],
     "filament_vendor": [
         "Hatchbox"
     ],
