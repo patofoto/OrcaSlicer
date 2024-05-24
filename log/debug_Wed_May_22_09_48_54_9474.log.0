@@ -1,0 +1,22 @@
+[warning]	2024-05-22 09:48:54.435392[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-05-22 09:48:54.435532[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-05-22 09:48:54.435584[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-05-22 09:48:55.121431[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-22 09:48:55.123392[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/Magnet Fit Test.3mf
+[error]	2024-05-22 09:48:55.123427[Thread 0x000000016d217000]:Unable to open the file/Users/pato/Downloads/PCB Klicky Probe Bracket v3 (1).3mf
+[error]	2024-05-22 09:48:55.123442[Thread 0x000000016ce0b000]:Unable to open the file/Users/pato/Downloads/Calib_Test.step
+[error]	2024-05-22 09:48:55.123449[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/Magnet Fit Test.step
+[error]	2024-05-22 09:48:55.123462[Thread 0x000000016d623000]:Unable to open the file/Users/pato/Downloads/POV Viewer v2.step
+[error]	2024-05-22 09:48:55.123463[Thread 0x000000016de3b000]:Unable to open the file/Users/pato/Downloads/PCB Klicky Probe Bracket v3 (1).step
+[error]	2024-05-22 09:48:55.123467[Thread 0x000000016da2f000]:Unable to open the file/Users/pato/Downloads/Lock (1).3mf
+[error]	2024-05-22 09:48:55.123470[Thread 0x000000016e653000]:Unable to open the file/Users/pato/Downloads/POV Viewer v2.3mf
+[error]	2024-05-22 09:48:55.123511[Thread 0x000000016e247000]:Unable to open the file/Users/pato/Documents/GitHub/OrcaSlicer/build_arm64/OrcaSlicer/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-22 09:48:56.329206[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-22 09:48:56.358310[Thread 0x0000000201798c00]:connect_server error: network_agent=0x600002ffbea0, ret=-2
+[error]	2024-05-22 09:48:57.446061[Thread 0x0000000337fc7000]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Connection timed out after 1001 milliseconds
+[Error 28]
+[warning]	2024-05-22 09:48:57.690481[Thread 0x0000000337f3b000]:[Orca Updater]: online version=1.9.1.6, current_version=1.9.1.6, no need to download
+[error]	2024-05-22 09:49:19.544819[Thread 0x0000000201798c00]:LoadProfileFamily: parse /Users/pato/Documents/GitHub/OrcaSlicer/build_arm64/OrcaSlicer/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-05-22 09:49:19.563481[Thread 0x0000000201798c00]:LoadProfileFamily: parse /Users/pato/Documents/GitHub/OrcaSlicer/build_arm64/OrcaSlicer/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-05-22 09:49:33.757254[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles

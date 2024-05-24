@@ -1,0 +1,20 @@
+[warning]	2024-05-23 11:09:41.399917[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-05-23 11:09:41.400063[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-05-23 11:09:41.400117[Thread 0x0000000201798c00]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-05-23 11:09:42.042852[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 11:09:42.046369[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/Magnet Fit Test.3mf
+[error]	2024-05-23 11:09:42.046397[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/Magnet Fit Test.step
+[error]	2024-05-23 11:09:42.046408[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/POV Viewer v2.3mf
+[error]	2024-05-23 11:09:42.046440[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Downloads/POV Viewer v2.step
+[error]	2024-05-23 11:09:42.046467[Thread 0x000000016c97b000]:Unable to open the file/Users/pato/Downloads/Calib_Test.step
+[error]	2024-05-23 11:09:42.046484[Thread 0x000000016e1c3000]:Unable to open the file/Users/pato/Downloads/Lock (1).3mf
+[error]	2024-05-23 11:09:42.046493[Thread 0x000000016d193000]:Unable to open the file/Users/pato/Downloads/PCB Klicky Probe Bracket v3 (1).step
+[error]	2024-05-23 11:09:42.046509[Thread 0x000000016cd87000]:Unable to open the file/Users/pato/Downloads/PCB Klicky Probe Bracket v3 (1).3mf
+[error]	2024-05-23 11:09:42.046555[Thread 0x0000000201798c00]:Unable to open the file/Users/pato/Documents/GitHub/OrcaSlicer/build_arm64/OrcaSlicer/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-05-23 11:09:43.311508[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-05-23 11:09:43.342277[Thread 0x0000000201798c00]:connect_server error: network_agent=0x600003c99b90, ret=-2
+[error]	2024-05-23 11:09:44.681775[Thread 0x000000032ff37000]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Connection timed out after 1005 milliseconds
+[Error 28]
+[warning]	2024-05-23 11:09:44.924601[Thread 0x000000016ffdf000]:[Orca Updater]: online version=1.9.1.6, current_version=1.9.1.6, no need to download
+[error]	2024-05-23 11:10:19.229712[Thread 0x0000000201798c00]:calc_exclude_triangles:Unable to create exclude triangles

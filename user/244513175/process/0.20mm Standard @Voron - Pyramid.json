@@ -3,7 +3,6 @@
     "brim_type": "brim_ears",
     "counterbore_hole_bridging": "sacrificiallayer",
     "default_acceleration": "4900",
-    "enable_support": "1",
     "from": "User",
     "gap_infill_speed": "85",
     "gcode_comments": "1",
