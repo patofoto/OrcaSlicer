@@ -1,0 +1,35 @@
+[warning]	2024-10-26 16:15:44.905412[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-26 16:15:44.905713[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-26 16:15:44.905773[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-26 16:15:45.615664[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:15:45.619641[Thread 0x000000016c54b000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x1x7.step
+[error]	2024-10-26 16:15:45.619664[Thread 0x000000016c54b000]:Unable to open the file/Users/pato/Downloads/Eye-Motor Bracket (1).step
+[error]	2024-10-26 16:15:45.619719[Thread 0x000000016d16f000]:Unable to open the file/Users/pato/Downloads/Body%20Wash-Shampoo%20Bottle%20Connector%20Cap%20-%20Small%20wings.stl
+[error]	2024-10-26 16:15:45.619779[Thread 0x000000016cd63000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-26 16:15:45.619803[Thread 0x000000016c957000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/CaliLantern_Digital_Download_V11/CaliLantern 3 v24.stl
+[error]	2024-10-26 16:15:45.619902[Thread 0x000000016d987000]:Unable to open the file/Users/pato/Downloads/Large Drawer_Trays.step
+[error]	2024-10-26 16:15:45.619934[Thread 0x000000016e19f000]:Unable to open the file/Users/pato/Downloads/Gridfinity baseplate 10x7.step
+[error]	2024-10-26 16:15:45.619942[Thread 0x000000016dd93000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-26 16:15:46.182367[Thread 0x00000001f3c13240]:16:15:46: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-26 16:15:46.245828[Thread 0x00000001f3c13240]:16:15:46: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-26 16:15:46.271150[Thread 0x00000001f3c13240]:16:15:46: Script message received; value = {"sequence_id":1729973746,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-26 16:15:46.271325[Thread 0x00000001f3c13240]:16:15:46: Script message received; value = {"sequence_id":1729973746,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-26 16:15:46.274688[Thread 0x00000001f3c13240]:16:15:46: Script message received; value = {"sequence_id":1729973746,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-26 16:15:46.274936[Thread 0x00000001f3c13240]:16:15:46: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-26 16:15:46.935020[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:15:46.955894[Thread 0x00000001f3c13240]:connect_server error: network_agent=0x60000215ca40, ret=-2
+[warning]	2024-10-26 16:15:47.315860[Thread 0x000000016c0b3000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-10-26 16:16:20.314008[Thread 0x00000001f3c13240]:16:16:20: Script message received; value = {"sequence_id":1729973780,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).3mf"}}, handler = wx
+[error]	2024-10-26 16:16:20.315321[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:16:20.499389[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:16:20.508884[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:16:20.518303[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-26 16:16:28.503629[Thread 0x00000001f3c13240]:16:16:28: Script message received; value = {"sequence_id":1729973789,"command":"homepage_newproject"}, handler = wx
+[error]	2024-10-26 16:16:28.571327[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 16:16:40.529568[Thread 0x00000001f3c13240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-26 16:16:41.501302[Thread 0x000000016bdf7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-26 16:16:50.278096[Thread 0x000000016bdf7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-26 16:16:54.906972[Thread 0x000000016bdf7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-26 16:17:04.207165[Thread 0x000000016bdf7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-26 17:15:46.433505[Thread 0x00000001f3c13240]:17:15:46: Script message received; value = {"sequence_id":1729977346,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-26 17:32:35.662112[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles

@@ -31,6 +31,7 @@
     "outer_wall_speed": "30",
     "print_settings_id": "0.20mm Standard @ Voron Prints",
     "skirt_distance": "3",
+    "skirt_height": "1",
     "skirt_loops": "3",
     "skirt_speed": "5",
     "slow_down_layers": "1",

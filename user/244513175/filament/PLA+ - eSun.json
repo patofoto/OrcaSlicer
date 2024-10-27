@@ -1,0 +1,61 @@
+{
+    "cool_plate_temp": [
+        "65"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "65"
+    ],
+    "default_filament_colour": [
+        "#424242"
+    ],
+    "filament_cost": [
+        "24.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "28"
+    ],
+    "filament_settings_id": [
+        "PLA+ - eSun"
+    ],
+    "filament_shrink": [
+        "99.7%"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA+ - eSun",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.036"
+    ],
+    "temperature_vitrification": [
+        "50"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.8.0.0"
+}

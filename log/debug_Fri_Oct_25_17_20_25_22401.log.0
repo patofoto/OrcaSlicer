@@ -1,0 +1,30 @@
+[warning]	2024-10-25 17:20:25.492531[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-25 17:20:25.492743[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-25 17:20:25.492804[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-25 17:20:26.280360[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 17:20:26.284593[Thread 0x00000001f3c13240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[error]	2024-10-25 17:20:26.284618[Thread 0x000000016d63b000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-25 17:20:26.284634[Thread 0x000000016ce23000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x1x7.step
+[error]	2024-10-25 17:20:26.284641[Thread 0x000000016ee83000]:Unable to open the file/Users/pato/Downloads/Body%20Wash-Shampoo%20Bottle%20Connector%20Cap%20-%20Small%20wings.stl
+[error]	2024-10-25 17:20:26.284645[Thread 0x000000016d22f000]:Unable to open the file/Users/pato/Downloads/Eye-Motor Bracket (1).step
+[error]	2024-10-25 17:20:26.285151[Thread 0x000000016ea77000]:Unable to open the file/Users/pato/Downloads/Large Drawer_Trays.step
+[error]	2024-10-25 17:20:26.285178[Thread 0x000000016e66b000]:Unable to open the file/Users/pato/Downloads/Gridfinity baseplate 10x7.step
+[error]	2024-10-25 17:20:26.285362[Thread 0x000000016da47000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/CaliLantern_Digital_Download_V11/CaliLantern 3 v24.stl
+[warning]	2024-10-25 17:20:26.897372[Thread 0x00000001f3c13240]:17:20:26: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-25 17:20:26.908738[Thread 0x00000001f3c13240]:17:20:26: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 17:20:26.936309[Thread 0x00000001f3c13240]:17:20:26: Script message received; value = {"sequence_id":1729891227,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-25 17:20:26.936420[Thread 0x00000001f3c13240]:17:20:26: Script message received; value = {"sequence_id":1729891227,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-25 17:20:26.939864[Thread 0x00000001f3c13240]:17:20:26: Script message received; value = {"sequence_id":1729891227,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-25 17:20:26.940157[Thread 0x00000001f3c13240]:17:20:26: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-25 17:20:27.657021[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 17:20:27.685704[Thread 0x00000001f3c13240]:connect_server error: network_agent=0x600002a0b490, ret=-2
+[warning]	2024-10-25 17:20:27.914337[Thread 0x000000045099b000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-10-25 17:20:32.857531[Thread 0x00000001f3c13240]:17:20:32: Script message received; value = {"sequence_id":1729891233,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step"}}, handler = wx
+[error]	2024-10-25 17:20:32.861549[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 17:20:33.051334[Thread 0x00000001f3c13240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-25 17:20:46.220085[Thread 0x00000001f3c13240]:17:20:46: Script message received; value = {"sequence_id":1729891246,"command":"homepage_newproject"}, handler = wx
+[error]	2024-10-25 17:20:46.293906[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 17:21:04.464041[Thread 0x00000001f3c13240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-25 17:21:05.518835[Thread 0x000000016c6cf000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-25 18:20:27.236540[Thread 0x00000001f3c13240]:18:20:27: Script message received; value = {"sequence_id":1729894827,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-25 18:38:39.361998[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles

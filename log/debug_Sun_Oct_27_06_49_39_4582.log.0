@@ -1,0 +1,23 @@
+[warning]	2024-10-27 06:49:39.494868[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-27 06:49:39.495097[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-27 06:49:39.495159[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-27 06:49:40.323544[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 06:49:40.770504[Thread 0x0000000203413240]:06:49:40: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-27 06:49:40.835729[Thread 0x0000000203413240]:06:49:40: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-27 06:49:40.864520[Thread 0x0000000203413240]:06:49:40: Script message received; value = {"sequence_id":1730026181,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-27 06:49:40.864696[Thread 0x0000000203413240]:06:49:40: Script message received; value = {"sequence_id":1730026181,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-27 06:49:40.866469[Thread 0x0000000203413240]:06:49:40: Script message received; value = {"sequence_id":1730026181,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-27 06:49:40.866709[Thread 0x0000000203413240]:06:49:40: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-27 06:49:41.575350[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 06:49:41.602401[Thread 0x0000000203413240]:connect_server error: network_agent=0x600002dfeed0, ret=-2
+[warning]	2024-10-27 06:49:41.827925[Thread 0x000000017fdb7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-10-27 07:49:41.939856[Thread 0x0000000203413240]:07:49:41: Script message received; value = {"sequence_id":1730029782,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-27 08:49:41.965133[Thread 0x0000000203413240]:08:49:41: Script message received; value = {"sequence_id":1730033382,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 09:09:58.043377[Thread 0x0000000203413240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[error]	2024-10-27 09:11:29.938544[Thread 0x000000017c2df000]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[error]	2024-10-27 09:33:34.618014[Thread 0x0000000203413240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-27 09:37:51.151922[Thread 0x0000000203413240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-10-27 09:49:41.930005[Thread 0x0000000203413240]:09:49:41: Script message received; value = {"sequence_id":1730036982,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 09:55:17.153477[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles

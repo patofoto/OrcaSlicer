@@ -1,0 +1,13 @@
+{
+    "activate_chamber_temp_control": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA - Copy"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA - Copy",
+    "version": "2.1.0.0"
+}

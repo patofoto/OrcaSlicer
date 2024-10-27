@@ -1,0 +1,62 @@
+[warning]	2024-10-25 10:30:49.131848[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-25 10:30:49.132042[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-25 10:30:49.132104[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-25 10:30:50.080064[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 10:30:50.084917[Thread 0x00000001711a7000]:Unable to open the file/Users/pato/Downloads/Eye-Motor Bracket (1).step
+[error]	2024-10-25 10:30:50.084939[Thread 0x000000017098f000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x1x7.step
+[error]	2024-10-25 10:30:50.084986[Thread 0x00000001725e3000]:Unable to open the file/Users/pato/Downloads/Body%20Wash-Shampoo%20Bottle%20Connector%20Cap%20-%20Small%20wings.stl
+[error]	2024-10-25 10:30:50.085545[Thread 0x00000001715b3000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-25 10:30:50.085574[Thread 0x00000001721d7000]:Unable to open the file/Users/pato/Downloads/Gridfinity baseplate 10x7.step
+[error]	2024-10-25 10:30:50.085579[Thread 0x00000001729ef000]:Unable to open the file/Users/pato/Downloads/Large Drawer_Trays.step
+[error]	2024-10-25 10:30:50.085655[Thread 0x0000000171dcb000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[error]	2024-10-25 10:30:50.085764[Thread 0x00000001719bf000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/CaliLantern_Digital_Download_V11/CaliLantern 3 v24.stl
+[warning]	2024-10-25 10:30:50.610615[Thread 0x00000001f3c13240]:10:30:50: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-25 10:30:50.683874[Thread 0x00000001f3c13240]:10:30:50: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-25 10:30:51.423542[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 10:30:51.450324[Thread 0x00000001f3c13240]:connect_server error: network_agent=0x60000072bac0, ret=-2
+[warning]	2024-10-25 10:30:51.479603[Thread 0x00000001f3c13240]:10:30:51: Script message received; value = {"sequence_id":1729866651,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-25 10:30:51.479726[Thread 0x00000001f3c13240]:10:30:51: Script message received; value = {"sequence_id":1729866651,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-25 10:30:51.482038[Thread 0x00000001f3c13240]:10:30:51: Script message received; value = {"sequence_id":1729866651,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-25 10:30:51.482288[Thread 0x00000001f3c13240]:10:30:51: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 10:30:51.842304[Thread 0x0000000177a37000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-10-25 10:30:53.261504[Thread 0x00000001f3c13240]:10:30:53: Script message received; value = {"sequence_id":1729866653,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).3mf"}}, handler = wx
+[error]	2024-10-25 10:30:53.264520[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 10:30:53.413086[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 10:31:52.084926[Thread 0x0000000329c5b000]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[error]	2024-10-25 11:19:19.915686[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:19:32.743692[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:20:27.353804[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:20:43.100812[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:20:49.403898[Thread 0x0000000329c5b000]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[error]	2024-10-25 11:27:56.000164[Thread 0x00000001f3c13240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-25 11:29:42.453769[Thread 0x00000001f3c13240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-10-25 11:30:50.815695[Thread 0x00000001f3c13240]:11:30:50: Script message received; value = {"sequence_id":1729870251,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-25 11:31:45.113250[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:31:48.538984[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:57:03.278012[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:57:22.902090[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:57:32.333907[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 11:58:11.271323[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-25 11:59:01.620240[Thread 0x00000001f3c13240]:11:59:01: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-25 11:59:01.626339[Thread 0x00000001f3c13240]:11:59:01: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-25 11:59:01.630512[Thread 0x00000001f3c13240]:11:59:01: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 11:59:01.654594[Thread 0x00000001f3c13240]:11:59:01: Script message received; value = {"sequence_id":1729871942,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-25 11:59:01.654702[Thread 0x00000001f3c13240]:11:59:01: Script message received; value = {"sequence_id":1729871942,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-25 11:59:01.659160[Thread 0x00000001f3c13240]:11:59:01: Script message received; value = {"sequence_id":1729871942,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-25 11:59:01.659460[Thread 0x00000001f3c13240]:11:59:01: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 12:07:16.468510[Thread 0x00000001f3c13240]:12:07:16: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-25 12:07:16.477127[Thread 0x00000001f3c13240]:12:07:16: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-10-25 12:07:16.481993[Thread 0x00000001f3c13240]:12:07:16: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 12:07:16.504157[Thread 0x00000001f3c13240]:12:07:16: Script message received; value = {"sequence_id":1729872437,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-25 12:07:16.504270[Thread 0x00000001f3c13240]:12:07:16: Script message received; value = {"sequence_id":1729872437,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-25 12:07:16.507345[Thread 0x00000001f3c13240]:12:07:16: Script message received; value = {"sequence_id":1729872437,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-25 12:07:16.507631[Thread 0x00000001f3c13240]:12:07:16: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-25 12:43:20.414456[Thread 0x00000001f3c13240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-25 12:43:28.505954[Thread 0x00000001f3c13240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-25 12:43:28.796808[Thread 0x00000001f3c13240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-25 12:43:28.860855[Thread 0x00000001f3c13240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-25 12:44:12.654090[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles

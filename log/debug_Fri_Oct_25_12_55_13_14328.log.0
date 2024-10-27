@@ -1,0 +1,28 @@
+[warning]	2024-10-25 12:55:14.210658[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-25 12:55:14.210827[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-25 12:55:14.210886[Thread 0x00000001f3c13240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-25 12:55:15.000327[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 12:55:15.004267[Thread 0x000000016c807000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x1x7.step
+[error]	2024-10-25 12:55:15.004281[Thread 0x000000016c807000]:Unable to open the file/Users/pato/Downloads/Eye-Motor Bracket (1).step
+[error]	2024-10-25 12:55:15.004370[Thread 0x000000016e04f000]:Unable to open the file/Users/pato/Downloads/Body%20Wash-Shampoo%20Bottle%20Connector%20Cap%20-%20Small%20wings.stl
+[error]	2024-10-25 12:55:15.005203[Thread 0x000000016dc43000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-25 12:55:15.005234[Thread 0x000000016d42b000]:Unable to open the file/Users/pato/Downloads/Gridfinity baseplate 10x7.step
+[error]	2024-10-25 12:55:15.005245[Thread 0x000000016e45b000]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[error]	2024-10-25 12:55:15.005254[Thread 0x000000016c807000]:Unable to open the file/Users/pato/Downloads/Large Drawer_Trays.step
+[error]	2024-10-25 12:55:15.005601[Thread 0x000000016d01f000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/CaliLantern_Digital_Download_V11/CaliLantern 3 v24.stl
+[warning]	2024-10-25 12:55:15.523013[Thread 0x00000001f3c13240]:12:55:15: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-25 12:55:15.596652[Thread 0x00000001f3c13240]:12:55:15: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-25 12:55:15.618252[Thread 0x00000001f3c13240]:12:55:15: Script message received; value = {"sequence_id":1729875316,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-25 12:55:15.618369[Thread 0x00000001f3c13240]:12:55:15: Script message received; value = {"sequence_id":1729875316,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-25 12:55:15.621065[Thread 0x00000001f3c13240]:12:55:15: Script message received; value = {"sequence_id":1729875316,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-25 12:55:15.621324[Thread 0x00000001f3c13240]:12:55:15: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-25 12:55:16.302031[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 12:55:16.328532[Thread 0x00000001f3c13240]:connect_server error: network_agent=0x600001316e00, ret=-2
+[warning]	2024-10-25 12:55:16.582565[Thread 0x0000000354a7f000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-10-25 12:55:47.601086[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 12:55:58.389972[Thread 0x0000000310087000]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[warning]	2024-10-25 13:55:15.832258[Thread 0x00000001f3c13240]:13:55:15: Script message received; value = {"sequence_id":1729878916,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-25 14:08:01.800399[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-25 14:09:24.332292[Thread 0x00000001f3c13240]:calc_exclude_triangles:Unable to create exclude triangles

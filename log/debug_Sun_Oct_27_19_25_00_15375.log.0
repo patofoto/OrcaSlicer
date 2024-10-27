@@ -1,0 +1,18 @@
+[warning]	2024-10-27 19:25:00.913024[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-27 19:25:00.913342[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-27 19:25:00.913401[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-27 19:25:01.653658[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 19:25:01.658980[Thread 0x0000000203413240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-27 19:25:02.138707[Thread 0x0000000203413240]:19:25:02: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-27 19:25:02.207438[Thread 0x0000000203413240]:19:25:02: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-27 19:25:02.883320[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 19:25:02.916262[Thread 0x0000000203413240]:connect_server error: network_agent=0x600001e60420, ret=-2
+[warning]	2024-10-27 19:25:02.950997[Thread 0x0000000203413240]:19:25:02: Script message received; value = {"sequence_id":1730071502,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-27 19:25:02.951106[Thread 0x0000000203413240]:19:25:02: Script message received; value = {"sequence_id":1730071502,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-27 19:25:02.952677[Thread 0x0000000203413240]:19:25:02: Script message received; value = {"sequence_id":1730071502,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-27 19:25:02.952935[Thread 0x0000000203413240]:19:25:02: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-27 19:25:03.341550[Thread 0x0000000177d63000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-10-27 19:28:24.651679[Thread 0x0000000203413240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-27 19:28:25.017367[Thread 0x0000000203413240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-27 19:28:25.105053[Thread 0x0000000203413240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-27 19:28:41.404794[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles

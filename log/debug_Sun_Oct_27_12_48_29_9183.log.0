@@ -1,0 +1,53 @@
+[warning]	2024-10-27 12:48:29.340246[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-10-27 12:48:29.340481[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-10-27 12:48:29.340543[Thread 0x0000000203413240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-10-27 12:48:30.237831[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 12:48:30.242508[Thread 0x0000000203413240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-27 12:48:30.813079[Thread 0x0000000203413240]:12:48:30: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-10-27 12:48:30.879279[Thread 0x0000000203413240]:12:48:30: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-10-27 12:48:31.597132[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 12:48:31.623387[Thread 0x0000000203413240]:connect_server error: network_agent=0x600002f0b280, ret=-2
+[warning]	2024-10-27 12:48:31.651817[Thread 0x0000000203413240]:12:48:31: Script message received; value = {"sequence_id":1730047711,"command":"get_login_info"}, handler = wx
+[warning]	2024-10-27 12:48:31.651944[Thread 0x0000000203413240]:12:48:31: Script message received; value = {"sequence_id":1730047711,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-10-27 12:48:31.653246[Thread 0x0000000203413240]:12:48:31: Script message received; value = {"sequence_id":1730047711,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-27 12:48:31.653422[Thread 0x0000000203413240]:12:48:31: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-10-27 12:48:31.877009[Thread 0x0000000351787000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-10-27 12:51:04.943471[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 12:55:40.767249[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 13:48:30.934961[Thread 0x0000000203413240]:13:48:30: Script message received; value = {"sequence_id":1730051311,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-10-27 14:47:02.257107[Thread 0x0000000203413240]:14:47:02: Script message received; value = {"sequence_id":1730054822,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).3mf"}}, handler = wx
+[error]	2024-10-27 14:47:02.261839[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:02.478598[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:02.488643[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:02.498715[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:02.508159[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:24.055245[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:47:35.543869[Thread 0x0000000203413240]:Unable to open the file/Users/pato/Downloads/Gridfinity bin 2x2x7 (1).step
+[warning]	2024-10-27 14:47:36.898285[Thread 0x000000016e3e7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2024-10-27 14:48:31.038748[Thread 0x0000000203413240]:14:48:31: Script message received; value = {"sequence_id":1730054911,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 14:48:56.720765[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:49:08.499244[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:49:48.317559[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 14:49:51.817732[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 15:48:31.312561[Thread 0x0000000203413240]:15:48:31: Script message received; value = {"sequence_id":1730058511,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 15:58:14.689589[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 15:58:37.148332[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 16:17:18.148157[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 16:19:10.727966[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 16:19:17.871729[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 16:48:31.390253[Thread 0x0000000203413240]:16:48:31: Script message received; value = {"sequence_id":1730062111,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 17:23:25.596844[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:25:37.466532[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:27:51.733214[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 17:48:31.626332[Thread 0x0000000203413240]:17:48:31: Script message received; value = {"sequence_id":1730065712,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 17:54:03.237512[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:54:11.968584[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:54:32.605955[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:55:08.282992[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 17:56:51.126239[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-27 18:48:31.836678[Thread 0x0000000203413240]:18:48:31: Script message received; value = {"sequence_id":1730069312,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-10-27 18:49:47.017315[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 18:50:27.605958[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 18:51:01.591601[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 18:51:28.964592[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-27 19:07:33.147412[Thread 0x0000000203413240]:calc_exclude_triangles:Unable to create exclude triangles
