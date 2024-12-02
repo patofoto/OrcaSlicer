@@ -62,7 +62,7 @@
     ],
     "name": "Pato's Ender3v2 Klipper 0.4mm",
     "nozzle_type": "hardened_steel",
-    "print_host": "10.0.1.13",
+    "print_host": "192.168.1.157",
     "printable_area": [
         "0x0",
         "228x0",

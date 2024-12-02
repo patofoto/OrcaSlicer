@@ -8,11 +8,17 @@
     "default_filament_colour": [
         "#424242"
     ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
     "enable_pressure_advance": [
         "1"
     ],
     "filament_cost": [
         "24.99"
+    ],
+    "filament_flow_ratio": [
+        "1"
     ],
     "filament_max_volumetric_speed": [
         "28"
@@ -22,9 +28,6 @@
     ],
     "filament_shrink": [
         "99.7%"
-    ],
-    "filament_vendor": [
-        "Hatchbox"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -37,19 +40,16 @@
     "is_custom_defined": "0",
     "name": "PLA Pro - patofoto",
     "nozzle_temperature": [
-        "215"
+        "240"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "245"
     ],
     "nozzle_temperature_range_high": [
-        "225"
-    ],
-    "nozzle_temperature_range_low": [
-        "205"
+        "220"
     ],
     "pressure_advance": [
-        "0.036"
+        "0.025"
     ],
     "temperature_vitrification": [
         "50"

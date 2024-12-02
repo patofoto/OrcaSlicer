@@ -1,5 +1,5 @@
 {
-    "bottom_shell_layers": "5",
+    "bottom_shell_layers": "4",
     "counterbore_hole_bridging": "sacrificiallayer",
     "default_acceleration": "4900",
     "enable_support": "1",
@@ -31,9 +31,10 @@
     "sparse_infill_pattern": "cubic",
     "support_speed": "50",
     "support_type": "tree(auto)",
-    "top_shell_layers": "5",
     "top_surface_speed": "85",
     "travel_acceleration": "4900",
     "version": "1.9.0.2",
-    "wall_loops": "4"
+    "wall_generator": "classic",
+    "wall_loops": "4",
+    "wall_sequence": "inner-outer-inner wall"
 }

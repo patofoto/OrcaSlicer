@@ -1,0 +1,17 @@
+[warning]	2024-12-02 09:29:37.543920[Thread 0x00000001f6447840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-02 09:29:37.544174[Thread 0x00000001f6447840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-02 09:29:37.544236[Thread 0x00000001f6447840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-02 09:29:38.284902[Thread 0x00000001f6447840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-02 09:29:38.288298[Thread 0x000000016e98b000]:Unable to open the file/Users/pato/Downloads/Room Sensor.3mf
+[warning]	2024-12-02 09:29:38.679845[Thread 0x00000001f6447840]:09:29:38: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-02 09:29:38.746574[Thread 0x00000001f6447840]:09:29:38: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-02 09:29:38.768614[Thread 0x00000001f6447840]:09:29:38: Script message received; value = {"sequence_id":1733149779,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-02 09:29:38.768730[Thread 0x00000001f6447840]:09:29:38: Script message received; value = {"sequence_id":1733149779,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-02 09:29:38.771314[Thread 0x00000001f6447840]:09:29:38: Script message received; value = {"sequence_id":1733149779,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-02 09:29:38.771577[Thread 0x00000001f6447840]:09:29:38: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-02 09:29:39.452429[Thread 0x00000001f6447840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-02 09:29:39.476122[Thread 0x00000001f6447840]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Copy, just skip
+[error]	2024-12-02 09:29:39.480038[Thread 0x00000001f6447840]:connect_server error: network_agent=0x600001b7fad0, ret=-2
+[warning]	2024-12-02 09:29:39.711236[Thread 0x00000003592cb000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-02 09:36:48.700891[Thread 0x00000001f6447840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-02 09:54:15.592953[Thread 0x00000001f6447840]:calc_exclude_triangles:Unable to create exclude triangles

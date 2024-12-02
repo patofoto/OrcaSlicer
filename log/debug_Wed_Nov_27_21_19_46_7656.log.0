@@ -1,0 +1,21 @@
+[warning]	2024-11-27 21:19:46.570963[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-27 21:19:46.571366[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-27 21:19:46.571463[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-27 21:19:47.309397[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 21:19:47.313238[Thread 0x000000016cf03000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.gcode.3mf
+[error]	2024-11-27 21:19:47.313332[Thread 0x000000016df33000]:Unable to open the file/Users/pato/Desktop/Candy Cane.step
+[error]	2024-11-27 21:19:47.313337[Thread 0x000000016e74b000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.step
+[error]	2024-11-27 21:19:47.313347[Thread 0x000000016db27000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.4_wall.step
+[error]	2024-11-27 21:19:47.313378[Thread 0x000000016eb57000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.3mf
+[error]	2024-11-27 21:19:47.313470[Thread 0x000000016d30f000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/make3/Projects/MWTB/Printing Files/Tests/11_26_2024/Wrapper_0.8_Wall.step
+[error]	2024-11-27 21:19:47.313497[Thread 0x000000016e33f000]:Unable to open the file/Users/pato/Desktop/Cover Skirt for Heater v2.step
+[warning]	2024-11-27 21:19:47.778542[Thread 0x00000001f28fb840]:21:19:47: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-11-27 21:19:47.844293[Thread 0x00000001f28fb840]:21:19:47: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-11-27 21:19:47.872540[Thread 0x00000001f28fb840]:21:19:47: Script message received; value = {"sequence_id":1732760388,"command":"get_login_info"}, handler = wx
+[warning]	2024-11-27 21:19:47.872657[Thread 0x00000001f28fb840]:21:19:47: Script message received; value = {"sequence_id":1732760388,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-11-27 21:19:47.875159[Thread 0x00000001f28fb840]:21:19:47: Script message received; value = {"sequence_id":1732760388,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-11-27 21:19:47.875395[Thread 0x00000001f28fb840]:21:19:47: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-11-27 21:19:48.546637[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 21:19:48.573420[Thread 0x00000001f28fb840]:connect_server error: network_agent=0x600000418550, ret=-2
+[warning]	2024-11-27 21:19:48.824730[Thread 0x0000000346b43000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-27 21:28:27.416049[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles

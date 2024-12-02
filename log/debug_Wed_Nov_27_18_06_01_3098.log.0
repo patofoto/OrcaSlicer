@@ -1,0 +1,31 @@
+[warning]	2024-11-27 18:06:02.031253[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-27 18:06:02.031485[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-27 18:06:02.031557[Thread 0x00000001f28fb840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-27 18:06:02.865992[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 18:06:02.870466[Thread 0x00000001f28fb840]:Unable to open the file/Users/pato/Desktop/Candy Cane.3mf
+[error]	2024-11-27 18:06:02.870472[Thread 0x00000001710cb000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.3mf
+[error]	2024-11-27 18:06:02.870490[Thread 0x00000001f28fb840]:Unable to open the file/Users/pato/Desktop/Candy Cane.step
+[error]	2024-11-27 18:06:02.870494[Thread 0x00000001710cb000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.gcode.3mf
+[error]	2024-11-27 18:06:02.870497[Thread 0x00000001f28fb840]:Unable to open the file/Users/pato/Desktop/Wrapper_0.4_wall.step
+[error]	2024-11-27 18:06:02.870502[Thread 0x00000001f28fb840]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.step
+[error]	2024-11-27 18:06:02.870510[Thread 0x00000001714d7000]:Unable to open the file/Users/pato/Desktop/Wrapper v2.step
+[error]	2024-11-27 18:06:02.871144[Thread 0x0000000170cbf000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/make3/Projects/MWTB/Printing Files/Tests/11_26_2024/Wrapper_0.8_Wall.step
+[warning]	2024-11-27 18:06:03.439943[Thread 0x00000001f28fb840]:18:06:03: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-11-27 18:06:03.511792[Thread 0x00000001f28fb840]:18:06:03: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-11-27 18:06:03.539733[Thread 0x00000001f28fb840]:18:06:03: Script message received; value = {"sequence_id":1732748764,"command":"get_login_info"}, handler = wx
+[warning]	2024-11-27 18:06:03.539891[Thread 0x00000001f28fb840]:18:06:03: Script message received; value = {"sequence_id":1732748764,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-11-27 18:06:03.541058[Thread 0x00000001f28fb840]:18:06:03: Script message received; value = {"sequence_id":1732748764,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-11-27 18:06:03.541289[Thread 0x00000001f28fb840]:18:06:03: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-11-27 18:06:04.234927[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 18:06:04.263826[Thread 0x00000001f28fb840]:connect_server error: network_agent=0x600001e174c0, ret=-2
+[warning]	2024-11-27 18:06:04.514682[Thread 0x000000033e7bf000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-27 18:06:31.012112[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 18:06:31.183327[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 18:06:55.321216[Thread 0x0000000171cef000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-27 18:06:55.321585[Thread 0x0000000170cbf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-27 18:06:56.226961[Thread 0x00000003623f3000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-27 18:06:56.267964[Thread 0x0000000171cef000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[warning]	2024-11-27 19:06:03.584145[Thread 0x00000001f28fb840]:19:06:03: Script message received; value = {"sequence_id":1732752364,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-11-27 19:28:26.023837[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-27 19:28:35.272440[Thread 0x00000001f28fb840]:Unable to open the file/Users/pato/Desktop/Cover Skirt for Heater v2.step
+[error]	2024-11-27 19:30:16.403361[Thread 0x00000001f28fb840]:calc_exclude_triangles:Unable to create exclude triangles

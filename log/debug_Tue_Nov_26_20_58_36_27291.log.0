@@ -1,0 +1,24 @@
+[warning]	2024-11-26 20:58:36.290980[Thread 0x00000001ff867840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-26 20:58:36.291248[Thread 0x00000001ff867840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-26 20:58:36.291312[Thread 0x00000001ff867840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-26 20:58:37.204354[Thread 0x00000001ff867840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 20:58:37.208409[Thread 0x00000001ff867840]:Unable to open the file/Users/pato/Desktop/Wrapper v2.step
+[error]	2024-11-26 20:58:37.208428[Thread 0x000000016d4ab000]:Unable to open the file/Users/pato/Desktop/Candy Cane.3mf
+[error]	2024-11-26 20:58:37.208440[Thread 0x000000016d4ab000]:Unable to open the file/Users/pato/Desktop/Candy Cane.step
+[error]	2024-11-26 20:58:37.208446[Thread 0x000000016d4ab000]:Unable to open the file/Users/pato/Desktop/Wrapper.stl
+[error]	2024-11-26 20:58:37.208452[Thread 0x000000016d4ab000]:Unable to open the file/Users/pato/Downloads/air-purifier-with-active-carbon-halot-one-ld-002h-model_files/activecarbon_holder_50mm.3mf
+[error]	2024-11-26 20:58:37.208498[Thread 0x000000016e0cf000]:Unable to open the file/Users/pato/Downloads/air-purifier-with-active-carbon-halot-one-ld-002h-model_files/activecarbon_holder_50mm.stl
+[error]	2024-11-26 20:58:37.208621[Thread 0x000000016d09f000]:Unable to open the file/Users/pato/Downloads/purge_bucket_350mm_rev4.stl
+[error]	2024-11-26 20:58:37.208625[Thread 0x000000016e4db000]:Unable to open the file/Users/pato/Downloads/Soporte Base de impresion Halot One Plus v2.step
+[error]	2024-11-26 20:58:37.209374[Thread 0x000000016d4ab000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/make3/Projects/MWTB/Printing Files/Tests/11_21_2024/Candy Cane.stl
+[warning]	2024-11-26 20:58:37.719668[Thread 0x00000001ff867840]:20:58:37: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-11-26 20:58:37.793831[Thread 0x00000001ff867840]:20:58:37: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-11-26 20:58:37.818824[Thread 0x00000001ff867840]:20:58:37: Script message received; value = {"sequence_id":1732672718,"command":"get_login_info"}, handler = wx
+[warning]	2024-11-26 20:58:37.819204[Thread 0x00000001ff867840]:20:58:37: Script message received; value = {"sequence_id":1732672718,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-11-26 20:58:37.820103[Thread 0x00000001ff867840]:20:58:37: Script message received; value = {"sequence_id":1732672718,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-11-26 20:58:37.820347[Thread 0x00000001ff867840]:20:58:37: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-11-26 20:58:38.527256[Thread 0x00000001ff867840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-26 20:58:38.552977[Thread 0x00000001ff867840]:connect_server error: network_agent=0x600002681dc0, ret=-2
+[warning]	2024-11-26 20:58:38.787443[Thread 0x000000035a177000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-26 20:58:44.872308[Thread 0x00000001ff867840]:Unable to open the file/Users/pato/Desktop/Wrapper_0.4_wall.step
+[error]	2024-11-26 20:59:22.500794[Thread 0x00000001ff867840]:calc_exclude_triangles:Unable to create exclude triangles

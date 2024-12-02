@@ -1,0 +1,36 @@
+[warning]	2024-11-30 11:15:21.978896[Thread 0x00000001f8317840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-11-30 11:15:21.979062[Thread 0x00000001f8317840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-11-30 11:15:21.979126[Thread 0x00000001f8317840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-11-30 11:15:22.783250[Thread 0x00000001f8317840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-30 11:15:22.787044[Thread 0x00000001f8317840]:Unable to open the file/Users/pato/Desktop/Cover Skirt for Heater v4.step
+[error]	2024-11-30 11:15:22.787055[Thread 0x00000001f8317840]:Unable to open the file/Users/pato/Desktop/Cover Skirt for Heater v3.step
+[error]	2024-11-30 11:15:22.787060[Thread 0x00000001f8317840]:Unable to open the file/Users/pato/Desktop/Cover Skirt for Heater v2.step
+[error]	2024-11-30 11:15:22.787067[Thread 0x00000001f8317840]:Unable to open the file/Users/pato/Desktop/Candy Cane.3mf
+[error]	2024-11-30 11:15:22.787075[Thread 0x000000016c833000]:Unable to open the file/Users/pato/Desktop/Candy Cane.step
+[error]	2024-11-30 11:15:22.787084[Thread 0x000000016c833000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.3mf
+[error]	2024-11-30 11:15:22.787092[Thread 0x000000016c833000]:Unable to open the file/Users/pato/Desktop/Wrapper_0.8_Wall.gcode.3mf
+[error]	2024-11-30 11:15:22.787354[Thread 0x000000016d04b000]:Unable to open the file/Users/pato/Library/CloudStorage/Dropbox/make3/Projects/MWTB/Printing Files/Tests/11_26_2024/Wrapper_0.8_Wall.step
+[warning]	2024-11-30 11:15:23.275687[Thread 0x00000001f8317840]:11:15:23: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-11-30 11:15:23.349533[Thread 0x00000001f8317840]:11:15:23: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-11-30 11:15:23.373875[Thread 0x00000001f8317840]:11:15:23: Script message received; value = {"sequence_id":1732983323,"command":"get_login_info"}, handler = wx
+[warning]	2024-11-30 11:15:23.373978[Thread 0x00000001f8317840]:11:15:23: Script message received; value = {"sequence_id":1732983323,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-11-30 11:15:23.375924[Thread 0x00000001f8317840]:11:15:23: Script message received; value = {"sequence_id":1732983323,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-11-30 11:15:23.376158[Thread 0x00000001f8317840]:11:15:23: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-11-30 11:15:24.098407[Thread 0x00000001f8317840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-30 11:15:24.122851[Thread 0x00000001f8317840]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Copy, just skip
+[error]	2024-11-30 11:15:24.126732[Thread 0x00000001f8317840]:connect_server error: network_agent=0x600000774a30, ret=-2
+[warning]	2024-11-30 11:15:24.423937[Thread 0x0000000347913000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-11-30 11:15:32.591066[Thread 0x00000001f8317840]:Unable to open the file/Users/pato/Desktop/Wrapper.step
+[error]	2024-11-30 11:15:39.704849[Thread 0x000000016cc3f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:15:39.704938[Thread 0x000000016d863000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:15:39.704963[Thread 0x000000030bc07000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:13.015228[Thread 0x000000016dc6f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:13.015328[Thread 0x000000030bc07000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:13.015356[Thread 0x000000016c833000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:24.476260[Thread 0x000000016d863000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:24.476355[Thread 0x000000030bc07000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:19:24.476366[Thread 0x000000016d04b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:25:58.224352[Thread 0x000000016e893000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:25:58.224359[Thread 0x000000030bc07000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:25:58.224556[Thread 0x000000016e07b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-11-30 11:49:31.877089[Thread 0x00000001f8317840]:calc_exclude_triangles:Unable to create exclude triangles

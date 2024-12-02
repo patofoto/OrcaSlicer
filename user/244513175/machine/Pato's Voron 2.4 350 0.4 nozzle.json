@@ -27,7 +27,6 @@
     "printer_settings_id": "Pato's Voron 2.4 350 0.4 nozzle",
     "printer_structure": "corexy",
     "purge_in_prime_tower": "0",
-    "support_multi_bed_types": "1",
     "time_cost": "7",
     "version": "1.8.0.0"
 }
