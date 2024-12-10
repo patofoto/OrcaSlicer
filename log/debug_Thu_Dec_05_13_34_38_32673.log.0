@@ -1,0 +1,18 @@
+[warning]	2024-12-05 13:34:39.081979[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-05 13:34:39.082281[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-05 13:34:39.082342[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-05 13:34:39.868385[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 13:34:39.872401[Thread 0x000000016feb7000]:Unable to open the file/Users/pato/Desktop/Candy Cane_0.4.step
+[error]	2024-12-05 13:34:39.872840[Thread 0x000000016faab000]:Unable to open the file/Users/pato/Desktop/Custom Syringe.step
+[warning]	2024-12-05 13:34:40.388841[Thread 0x00000001f0717840]:13:34:40: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-05 13:34:40.458715[Thread 0x00000001f0717840]:13:34:40: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-05 13:34:40.481728[Thread 0x00000001f0717840]:13:34:40: Script message received; value = {"sequence_id":1733423680,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-05 13:34:40.482132[Thread 0x00000001f0717840]:13:34:40: Script message received; value = {"sequence_id":1733423680,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-05 13:34:40.498872[Thread 0x00000001f0717840]:13:34:40: Script message received; value = {"sequence_id":1733423680,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-05 13:34:40.499739[Thread 0x00000001f0717840]:13:34:40: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-05 13:34:41.128189[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 13:34:41.147648[Thread 0x00000001f0717840]:connect_server error: network_agent=0x600000d555c0, ret=-2
+[warning]	2024-12-05 13:34:41.186001[Thread 0x00000001f0717840]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Copy, just skip
+[warning]	2024-12-05 13:34:41.663447[Thread 0x0000000347aaf000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-05 13:34:49.267197[Thread 0x00000001f0717840]:Unable to open the file/Users/pato/Desktop/Syringe Body.step
+[error]	2024-12-05 13:35:47.791032[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles

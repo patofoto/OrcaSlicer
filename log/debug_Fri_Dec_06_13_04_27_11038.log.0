@@ -1,0 +1,14 @@
+[warning]	2024-12-06 13:04:27.463413[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-06 13:04:27.463713[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-06 13:04:27.463775[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-06 13:04:28.323024[Thread 0x000000017152f000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3.3mf
+[error]	2024-12-06 13:04:28.323043[Thread 0x000000017152f000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3-Front.3mf
+[error]	2024-12-06 13:04:28.323150[Thread 0x000000017255f000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[warning]	2024-12-06 13:04:28.818716[Thread 0x00000001fbe3b840]:13:04:28: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[error]	2024-12-06 13:04:29.614852[Thread 0x00000001fbe3b840]:connect_server error: network_agent=0x6000033749e0, ret=-2
+[warning]	2024-12-06 13:04:29.664642[Thread 0x00000001fbe3b840]:13:04:29: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 13:04:29.678063[Thread 0x00000001fbe3b840]:13:04:29: Script message received; value = {"sequence_id":1733508270,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-06 13:04:29.678191[Thread 0x00000001fbe3b840]:13:04:29: Script message received; value = {"sequence_id":1733508270,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-06 13:04:29.689175[Thread 0x00000001fbe3b840]:13:04:29: Script message received; value = {"sequence_id":1733508270,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 13:04:29.689452[Thread 0x00000001fbe3b840]:13:04:29: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 13:04:29.859129[Thread 0x0000000334e0b000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download

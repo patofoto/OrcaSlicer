@@ -1,0 +1,22 @@
+[warning]	2024-12-06 12:34:53.650277[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-06 12:34:53.650664[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-06 12:34:53.650732[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-06 12:34:54.526085[Thread 0x00000001705b7000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3.3mf
+[error]	2024-12-06 12:34:54.526096[Thread 0x0000000170dcf000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3-Front.3mf
+[error]	2024-12-06 12:34:54.526437[Thread 0x00000001719f3000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[warning]	2024-12-06 12:34:54.905551[Thread 0x00000001fbe3b840]:12:34:54: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-06 12:34:54.981972[Thread 0x00000001fbe3b840]:12:34:54: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 12:34:55.000132[Thread 0x00000001fbe3b840]:12:34:55: Script message received; value = {"sequence_id":1733506495,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-06 12:34:55.000245[Thread 0x00000001fbe3b840]:12:34:55: Script message received; value = {"sequence_id":1733506495,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-06 12:34:55.009985[Thread 0x00000001fbe3b840]:12:34:55: Script message received; value = {"sequence_id":1733506495,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 12:34:55.010258[Thread 0x00000001fbe3b840]:12:34:55: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-06 12:34:55.721914[Thread 0x00000001fbe3b840]:connect_server error: network_agent=0x60000119d250, ret=-2
+[warning]	2024-12-06 12:34:55.963621[Thread 0x0000000341d13000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-06 12:34:58.115033[Thread 0x00000001fbe3b840]:12:34:58: Script message received; value = {"sequence_id":1733506498,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Solid Candy Cane Bottom.3mf"}}, handler = wx
+[warning]	2024-12-06 12:35:11.782603[Thread 0x0000000355657000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 12:35:12.193742[Thread 0x0000000355657000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-06 12:35:27.004894[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000119d250, ret=-4, dev_id=00M09B451200742, json_str={"info":{"command":"get_version","sequence_id":"20000"}}, qos=1
+[error]	2024-12-06 12:35:27.004922[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000119d250, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20001","version":1}}, qos=0
+[error]	2024-12-06 12:35:40.205828[Thread 0x000000031e32f000]:print_job: send ok.
+[error]	2024-12-06 12:35:40.236595[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000119d250, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20005","version":1}}, qos=0
+[error]	2024-12-06 12:35:40.236620[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000119d250, ret=-4, dev_id=00M09B451200742, json_str={"info":{"command":"get_version","sequence_id":"20006"}}, qos=1

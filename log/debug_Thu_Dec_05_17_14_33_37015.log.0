@@ -1,0 +1,60 @@
+[warning]	2024-12-05 17:14:33.827633[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-05 17:14:33.827938[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-05 17:14:33.828001[Thread 0x00000001f0717840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-05 17:14:34.597577[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 17:14:34.601946[Thread 0x000000016ee1b000]:Unable to open the file/Users/pato/Desktop/Custom Syringe.step
+[error]	2024-12-05 17:14:34.602003[Thread 0x000000016d1c7000]:Unable to open the file/Users/pato/Desktop/Candy Cane_0.4.step
+[error]	2024-12-05 17:14:34.602052[Thread 0x000000016e603000]:Unable to open the file/Users/pato/Desktop/Glue Hopper.step
+[error]	2024-12-05 17:14:34.602974[Thread 0x00000001f0717840]:Unable to open the file/Users/pato/Desktop/Syringe Body.step
+[warning]	2024-12-05 17:14:34.979558[Thread 0x00000001f0717840]:17:14:34: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-05 17:14:35.049977[Thread 0x00000001f0717840]:17:14:35: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-05 17:14:35.072867[Thread 0x00000001f0717840]:17:14:35: Script message received; value = {"sequence_id":1733436875,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-05 17:14:35.072994[Thread 0x00000001f0717840]:17:14:35: Script message received; value = {"sequence_id":1733436875,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-05 17:14:35.090060[Thread 0x00000001f0717840]:17:14:35: Script message received; value = {"sequence_id":1733436875,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-05 17:14:35.090339[Thread 0x00000001f0717840]:17:14:35: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-05 17:14:35.696679[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-05 17:14:35.719715[Thread 0x00000001f0717840]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @BBL X1C - Copy, just skip
+[error]	2024-12-05 17:14:35.723177[Thread 0x00000001f0717840]:connect_server error: network_agent=0x600003f3c4d0, ret=-2
+[warning]	2024-12-05 17:14:36.092803[Thread 0x000000016f8ef000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-05 17:15:01.635222[Thread 0x00000001f0717840]:Unable to open the file/Users/pato/Downloads/Lid%20holder%20v3.step
+[error]	2024-12-05 17:15:06.141231[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:15:08.071976[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:15:29.943798[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:15:41.281557[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 17:15:41.294257[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:15:46.694141[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 17:15:46.913991[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 17:15:47.276315[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:15:57.538829[Thread 0x00000001f0717840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-05 17:15:57.573803[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-05 17:16:01.189515[Thread 0x000000016ca73000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2024-12-05 17:16:10.648242[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 17:36:06.704259[Thread 0x00000001f0717840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-05 17:36:07.071778[Thread 0x00000001f0717840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-05 17:36:07.158187[Thread 0x00000001f0717840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[warning]	2024-12-05 17:36:26.772974[Thread 0x000000016ca73000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":90.000000,"clearance_radius":57.000000,"printable_height":250.000000,
+[error]	2024-12-05 17:38:37.121210[Thread 0x00000001f0717840]:ping_bind error: network_agent=0x600003f3c4d0, ret=-5, pin code=7691B6
+[error]	2024-12-05 17:39:40.873242[Thread 0x00000001f0717840]:send_message_to_printer error: network_agent=0x600003f3c4d0, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20000","version":1}}, qos=0
+[error]	2024-12-05 17:39:40.873413[Thread 0x00000001f0717840]:send_message_to_printer error: network_agent=0x600003f3c4d0, ret=-4, dev_id=00M09B451200742, json_str={"info":{"command":"get_version","sequence_id":"20001"}}, qos=1
+[error]	2024-12-05 17:40:16.871175[Thread 0x00000001f0717840]:send_message_to_printer error: network_agent=0x600003f3c4d0, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20002","version":1}}, qos=0
+[error]	2024-12-05 17:40:16.871323[Thread 0x00000001f0717840]:send_message_to_printer error: network_agent=0x600003f3c4d0, ret=-4, dev_id=00M09B451200742, json_str={"info":{"command":"get_version","sequence_id":"20003"}}, qos=1
+[error]	2024-12-05 17:40:54.880678[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-05 18:14:35.451111[Thread 0x00000001f0717840]:18:14:35: Script message received; value = {"sequence_id":1733440475,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-05 18:48:16.138239[Thread 0x00000001f0717840]:Unable to open the file/Users/pato/Desktop/Bottom Lid.step
+[error]	2024-12-05 18:48:37.711438[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 18:48:44.057775[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 18:48:47.242536[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 18:48:54.839672[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-05 18:49:34.569030[Thread 0x0000000323c0b000]:send_job: send ok.
+[warning]	2024-12-05 18:50:44.003443[Thread 0x00000001f0717840]:18:50:43: PrinterFileSystem::Reconnect Initializing
+[warning]	2024-12-05 18:50:44.003501[Thread 0x00000001f0717840]:18:50:43: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2024-12-05 18:50:44.003541[Thread 0x00000001f0717840]:18:50:43: PrinterFileSystem::Reconnect Failed
+[warning]	2024-12-05 18:50:57.083186[Thread 0x00000001f0717840]:18:50:57: PrinterFileSystem::Reconnect Initializing
+[warning]	2024-12-05 18:50:57.083247[Thread 0x00000001f0717840]:18:50:57: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2024-12-05 18:50:57.083288[Thread 0x00000001f0717840]:18:50:57: PrinterFileSystem::Reconnect Failed
+[error]	2024-12-05 18:51:12.325029[Thread 0x00000001f0717840]:send_message_to_printer error: network_agent=0x600003f3c4d0, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20011","version":1}}, qos=0
+[warning]	2024-12-05 18:52:29.447334[Thread 0x00000001f0717840]:18:52:29: PrinterFileSystem::Reconnect Initializing
+[warning]	2024-12-05 18:52:29.447415[Thread 0x00000001f0717840]:18:52:29: PrinterFileSystem::Reconnect Initialize failed: 0
+[warning]	2024-12-05 18:52:29.447460[Thread 0x00000001f0717840]:18:52:29: PrinterFileSystem::Reconnect Failed
+[error]	2024-12-05 19:06:26.313617[Thread 0x00000001f0717840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-05 19:14:35.171022[Thread 0x00000001f0717840]:19:14:35: Script message received; value = {"sequence_id":1733444075,"command":"modelmall_model_advise_get"}, handler = wx

@@ -1,0 +1,19 @@
+[warning]	2024-12-06 23:37:57.607429[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-06 23:37:57.607720[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-06 23:37:57.607783[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-06 23:37:58.480583[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 23:37:58.484710[Thread 0x00000001fbe3b840]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-12-06 23:37:58.484755[Thread 0x000000016dbdb000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3.3mf
+[error]	2024-12-06 23:37:58.484776[Thread 0x000000016e3f3000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3-Front.3mf
+[error]	2024-12-06 23:37:58.484805[Thread 0x000000016cfb7000]:Unable to open the file/Users/pato/Desktop/Top Lid.step
+[error]	2024-12-06 23:37:58.484884[Thread 0x000000016d3c3000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[warning]	2024-12-06 23:37:58.995689[Thread 0x00000001fbe3b840]:23:37:58: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-06 23:37:59.061025[Thread 0x00000001fbe3b840]:23:37:59: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 23:37:59.086740[Thread 0x00000001fbe3b840]:23:37:59: Script message received; value = {"sequence_id":1733546279,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-06 23:37:59.087152[Thread 0x00000001fbe3b840]:23:37:59: Script message received; value = {"sequence_id":1733546279,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-06 23:37:59.105842[Thread 0x00000001fbe3b840]:23:37:59: Script message received; value = {"sequence_id":1733546279,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 23:37:59.107026[Thread 0x00000001fbe3b840]:23:37:59: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-06 23:37:59.724704[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 23:37:59.753365[Thread 0x00000001fbe3b840]:connect_server error: network_agent=0x6000026273b0, ret=-2
+[warning]	2024-12-06 23:37:59.975968[Thread 0x000000034e31f000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-06 23:41:45.548167[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles

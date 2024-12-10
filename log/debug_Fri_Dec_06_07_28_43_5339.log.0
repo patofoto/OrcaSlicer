@@ -1,0 +1,40 @@
+[warning]	2024-12-06 07:28:44.128612[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-06 07:28:44.129303[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-06 07:28:44.129486[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-06 07:28:45.206103[Thread 0x0000000170fe3000]:Unable to open the file/Users/pato/Desktop/Bottom Lid.step
+[error]	2024-12-06 07:28:45.206107[Thread 0x000000016f79b000]:Unable to open the file/Users/pato/Desktop/Top Lid.step
+[error]	2024-12-06 07:28:45.206114[Thread 0x00000001707cb000]:Unable to open the file/Users/pato/Desktop/Knob v3.step
+[warning]	2024-12-06 07:28:45.626120[Thread 0x00000001fbe3b840]:07:28:45: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[error]	2024-12-06 07:28:46.398961[Thread 0x00000001fbe3b840]:connect_server error: network_agent=0x60000212fb20, ret=-2
+[warning]	2024-12-06 07:28:46.434449[Thread 0x00000001fbe3b840]:07:28:46: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 07:28:46.434624[Thread 0x00000001fbe3b840]:07:28:46: Script message received; value = {"sequence_id":1733488126,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-06 07:28:46.434703[Thread 0x00000001fbe3b840]:07:28:46: Script message received; value = {"sequence_id":1733488126,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-06 07:28:46.443925[Thread 0x00000001fbe3b840]:07:28:46: Script message received; value = {"sequence_id":1733488126,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 07:28:46.444127[Thread 0x00000001fbe3b840]:07:28:46: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 07:28:46.616814[Thread 0x0000000177ecf000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-06 07:28:55.150828[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000212fb20, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20000","version":1}}, qos=0
+[error]	2024-12-06 07:28:55.150866[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000212fb20, ret=-4, dev_id=00M09B451200742, json_str={"info":{"command":"get_version","sequence_id":"20001"}}, qos=1
+[warning]	2024-12-06 07:36:43.587794[Thread 0x00000001fbe3b840]:07:36:43: Script message received; value = {"sequence_id":1733488604,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Candy Cane Pato.3mf"}}, handler = wx
+[warning]	2024-12-06 07:36:49.267584[Thread 0x0000000371cb3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 08:28:45.688917[Thread 0x00000001fbe3b840]:08:28:45: Script message received; value = {"sequence_id":1733491726,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 09:19:35.094174[Thread 0x000000016ec3b000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":90.000000,"clearance_radius":57.000000,"printable_height":250.000000,
+[warning]	2024-12-06 09:20:21.990374[Thread 0x000000016ec3b000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":90.000000,"clearance_radius":57.000000,"printable_height":250.000000,
+[warning]	2024-12-06 09:20:59.354268[Thread 0x000000016ec3b000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":90.000000,"clearance_radius":57.000000,"printable_height":250.000000,
+[warning]	2024-12-06 09:21:05.452976[Thread 0x0000000371cb3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 09:21:34.485450[Thread 0x0000000371cb3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 09:22:10.043833[Thread 0x0000000371cb3000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-06 09:23:19.741777[Thread 0x0000000323e43000]:print_job: send ok.
+[error]	2024-12-06 09:23:19.770906[Thread 0x00000001fbe3b840]:send_message_to_printer error: network_agent=0x60000212fb20, ret=-4, dev_id=00M09B451200742, json_str={"pushing":{"command":"pushall","push_target":1,"sequence_id":"20035","version":1}}, qos=0
+[warning]	2024-12-06 09:28:45.739687[Thread 0x00000001fbe3b840]:09:28:45: Script message received; value = {"sequence_id":1733495326,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-06 10:20:36.113727[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 10:20:57.379159[Thread 0x00000001fbe3b840]:Unable to open the file/Users/pato/Desktop/Top Lid.step
+[warning]	2024-12-06 10:21:09.877557[Thread 0x0000000170bd7000]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2024-12-06 10:21:30.883183[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-06 10:21:33.494213[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-06 10:21:35.343764[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-06 10:21:37.515299[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-06 10:28:45.847965[Thread 0x00000001fbe3b840]:10:28:45: Script message received; value = {"sequence_id":1733498926,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 10:33:46.778339[Thread 0x00000001fbe3b840]:10:33:46: Script message received; value = {"sequence_id":1733499227,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Top Lid.step"}}, handler = wx
+[warning]	2024-12-06 10:33:57.634177[Thread 0x00000001fbe3b840]:10:33:57: Script message received; value = {"sequence_id":1733499238,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Knob v3.step"}}, handler = wx
+[warning]	2024-12-06 10:33:58.900316[Thread 0x00000001fbe3b840]:10:33:58: Script message received; value = {"sequence_id":1733499239,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Bottom Lid.step"}}, handler = wx
+[error]	2024-12-06 10:34:03.236599[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles

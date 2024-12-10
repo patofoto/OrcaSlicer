@@ -1,0 +1,44 @@
+[warning]	2024-12-09 14:11:15.954956[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-09 14:11:15.955191[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-09 14:11:15.955255[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-09 14:11:16.810413[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 14:11:16.814235[Thread 0x000000016e913000]:Unable to open the file/Users/pato/Desktop/Striped Candy Cane.3mf
+[error]	2024-12-09 14:11:16.814248[Thread 0x000000016ed1f000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[error]	2024-12-09 14:11:16.814253[Thread 0x000000016f12b000]:Unable to open the file/Users/pato/Desktop/Bottom Lid.step
+[error]	2024-12-09 14:11:16.814261[Thread 0x000000016ed1f000]:Unable to open the file/Users/pato/Desktop/Top Lid.3mf
+[error]	2024-12-09 14:11:16.814251[Thread 0x000000016e913000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.3mf
+[error]	2024-12-09 14:11:16.814267[Thread 0x000000016f12b000]:Unable to open the file/Users/pato/Desktop/Top Lid.step
+[error]	2024-12-09 14:11:16.814269[Thread 0x000000016ed1f000]:Unable to open the file/Users/pato/Desktop/Candy Cane Pato.3mf
+[error]	2024-12-09 14:11:16.814372[Thread 0x000000016e913000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[warning]	2024-12-09 14:11:17.287445[Thread 0x00000002048a7840]:14:11:17: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-09 14:11:17.352824[Thread 0x00000002048a7840]:14:11:17: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-09 14:11:17.374062[Thread 0x00000002048a7840]:14:11:17: Script message received; value = {"sequence_id":1733771477,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-09 14:11:17.374170[Thread 0x00000002048a7840]:14:11:17: Script message received; value = {"sequence_id":1733771477,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-09 14:11:17.378372[Thread 0x00000002048a7840]:14:11:17: Script message received; value = {"sequence_id":1733771477,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-09 14:11:17.378693[Thread 0x00000002048a7840]:14:11:17: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-09 14:11:18.013796[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 14:11:18.044341[Thread 0x00000002048a7840]:connect_server error: network_agent=0x6000022d0a50, ret=-2
+[warning]	2024-12-09 14:11:18.307970[Thread 0x0000000347167000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-09 14:11:42.954558[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-09 15:11:17.575436[Thread 0x00000002048a7840]:15:11:17: Script message received; value = {"sequence_id":1733775078,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 15:21:26.221906[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 15:21:42.243657[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 16:11:17.593789[Thread 0x00000002048a7840]:16:11:17: Script message received; value = {"sequence_id":1733778678,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 16:16:44.105938[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 16:16:50.145386[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 17:11:17.548967[Thread 0x00000002048a7840]:17:11:17: Script message received; value = {"sequence_id":1733782278,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 17:18:42.552893[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 17:18:46.744448[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 18:11:17.616006[Thread 0x00000002048a7840]:18:11:17: Script message received; value = {"sequence_id":1733785878,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-09 19:11:17.592811[Thread 0x00000002048a7840]:19:11:17: Script message received; value = {"sequence_id":1733789478,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 19:47:30.386959[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 19:48:55.265712[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 19:49:00.359357[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 19:49:09.243942[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 20:08:08.595425[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 20:08:14.518821[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 20:11:17.614340[Thread 0x00000002048a7840]:20:11:17: Script message received; value = {"sequence_id":1733793078,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 20:37:32.338097[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 20:40:49.341752[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 21:11:17.637384[Thread 0x00000002048a7840]:21:11:17: Script message received; value = {"sequence_id":1733796678,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 21:42:49.609930[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles

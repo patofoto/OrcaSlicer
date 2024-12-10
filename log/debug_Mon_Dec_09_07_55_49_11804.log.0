@@ -1,0 +1,53 @@
+[warning]	2024-12-09 07:55:49.563827[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-09 07:55:49.564065[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-09 07:55:49.564128[Thread 0x00000002048a7840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-09 07:55:50.549086[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:55:50.552981[Thread 0x000000016d00b000]:Unable to open the file/Users/pato/Desktop/Striped Candy Cane.3mf
+[error]	2024-12-09 07:55:50.552996[Thread 0x000000016cbff000]:Unable to open the file/Users/pato/Desktop/Bottom Lid.step
+[error]	2024-12-09 07:55:50.553004[Thread 0x000000016d00b000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.3mf
+[error]	2024-12-09 07:55:50.553011[Thread 0x000000016d00b000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[error]	2024-12-09 07:55:50.553019[Thread 0x000000016d00b000]:Unable to open the file/Users/pato/Desktop/Top Lid.3mf
+[error]	2024-12-09 07:55:50.553051[Thread 0x000000016dc2f000]:Unable to open the file/Users/pato/Desktop/Top Lid.step
+[error]	2024-12-09 07:55:50.553054[Thread 0x000000016d417000]:Unable to open the file/Users/pato/Desktop/Candy Cane Pato.3mf
+[error]	2024-12-09 07:55:50.553670[Thread 0x000000016cbff000]:Unable to open the file/Applications/OrcaSlicer.app/Contents/Resources/calib/tolerance_test/OrcaToleranceTest.stl
+[warning]	2024-12-09 07:55:51.085360[Thread 0x00000002048a7840]:07:55:51: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-09 07:55:51.157206[Thread 0x00000002048a7840]:07:55:51: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-09 07:55:51.178916[Thread 0x00000002048a7840]:07:55:51: Script message received; value = {"sequence_id":1733748951,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-09 07:55:51.179438[Thread 0x00000002048a7840]:07:55:51: Script message received; value = {"sequence_id":1733748951,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-09 07:55:51.183087[Thread 0x00000002048a7840]:07:55:51: Script message received; value = {"sequence_id":1733748951,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-09 07:55:51.183916[Thread 0x00000002048a7840]:07:55:51: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-09 07:55:51.811607[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:55:51.837660[Thread 0x00000002048a7840]:connect_server error: network_agent=0x600000a72480, ret=-2
+[warning]	2024-12-09 07:55:52.103089[Thread 0x000000035abaf000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-09 07:55:56.406939[Thread 0x00000002048a7840]:07:55:56: Script message received; value = {"sequence_id":1733748956,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/better-seams-an-orca-slicer-guide-to-using-scarf-seams-model_files/testsuite_orcasliceronly_personal_v1.3mf"}}, handler = wx
+[error]	2024-12-09 07:55:56.408618[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:55:56.739021[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:55:56.954984[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 07:56:07.042502[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 07:56:20.732223[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 07:56:24.170686[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 07:56:28.994640[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-09 07:59:54.507057[Thread 0x00000002048a7840]:07:59:54: Script message received; value = {"sequence_id":1733749195,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Downloads/better-seams-an-orca-slicer-guide-to-using-scarf-seams-model_files/testsuite_orcasliceronly_personal_v1.3mf"}}, handler = wx
+[error]	2024-12-09 07:59:54.609124[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:59:55.003122[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 07:59:55.207328[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 07:59:57.333700[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:01:40.963594[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:01:42.893214[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:01:48.425966[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:01:53.676878[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:02:28.221064[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-09 08:03:18.450274[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 08:03:22.776434[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-09 08:55:51.268721[Thread 0x00000002048a7840]:08:55:51: Script message received; value = {"sequence_id":1733752551,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-09 09:55:51.326592[Thread 0x00000002048a7840]:09:55:51: Script message received; value = {"sequence_id":1733756151,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-09 10:21:58.593826[Thread 0x00000003667b3000]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 129 NextTarget: 129 Distance to top: 50 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x111b03958: Radius: 1349954 at layer: 130 NextTarget: 130 Distance to top: 49 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-12-09 10:21:58.602129[Thread 0x000000016e03b000]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 117 NextTarget: 117 Distance to top: 62 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x35e2c0450: Radius: 1349954 at layer: 118 NextTarget: 118 Distance to top: 61 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-12-09 10:42:44.124568[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-09 10:43:07.747260[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 10:55:51.321726[Thread 0x00000002048a7840]:10:55:51: Script message received; value = {"sequence_id":1733759751,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 11:41:40.478759[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-09 11:55:51.346434[Thread 0x00000002048a7840]:11:55:51: Script message received; value = {"sequence_id":1733763351,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-09 12:07:04.504093[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,38 @@
+[warning]	2024-12-06 13:25:32.174778[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-06 13:25:32.175114[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-06 13:25:32.175207[Thread 0x00000001fbe3b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-06 13:25:33.025347[Thread 0x000000017194f000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3-Front.3mf
+[error]	2024-12-06 13:25:33.025349[Thread 0x0000000171137000]:Unable to open the file/Users/pato/Downloads/bambu-lab-x1-lid-riser-air-vent-model_files/BambuLab-X1-Lid-Riser-60x120-Magnets-8x3.3mf
+[error]	2024-12-06 13:25:33.025554[Thread 0x0000000172167000]:Unable to open the file/Users/pato/Desktop/Solid Candy Cane Bottom.step
+[warning]	2024-12-06 13:25:33.435418[Thread 0x00000001fbe3b840]:13:25:33: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-06 13:25:33.504511[Thread 0x00000001fbe3b840]:13:25:33: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-06 13:25:34.234275[Thread 0x00000001fbe3b840]:connect_server error: network_agent=0x60000103c4b0, ret=-2
+[warning]	2024-12-06 13:25:34.269392[Thread 0x00000001fbe3b840]:13:25:34: Script message received; value = {"sequence_id":1733509534,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-06 13:25:34.269487[Thread 0x00000001fbe3b840]:13:25:34: Script message received; value = {"sequence_id":1733509534,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-06 13:25:34.278793[Thread 0x00000001fbe3b840]:13:25:34: Script message received; value = {"sequence_id":1733509534,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-06 13:25:34.279159[Thread 0x00000001fbe3b840]:13:25:34: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-06 13:25:34.460419[Thread 0x0000000176f93000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-06 13:25:39.387387[Thread 0x00000001fbe3b840]:13:25:39: Script message received; value = {"sequence_id":1733509539,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Solid Candy Cane Bottom.3mf"}}, handler = wx
+[warning]	2024-12-06 13:25:45.013159[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:25:45.420532[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:21.984962[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:22.393651[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:36.816266[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:37.219147[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:51.448353[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:26:51.704149[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:27:00.934526[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:27:01.341616[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:28:33.908371[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-12-06 13:28:34.314037[Thread 0x00000003372e7000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-06 13:54:53.360111[Thread 0x00000001fbe3b840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-06 13:54:53.719161[Thread 0x00000001fbe3b840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-06 13:54:53.804800[Thread 0x00000001fbe3b840]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-12-06 13:57:09.940688[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 14:09:56.555475[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 14:10:14.858703[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-06 14:10:19.399383[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-06 14:10:21.759510[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-06 14:11:47.334966[Thread 0x00000001fbe3b840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-06 14:25:33.547387[Thread 0x00000001fbe3b840]:14:25:33: Script message received; value = {"sequence_id":1733513134,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-06 14:42:51.474368[Thread 0x00000001fbe3b840]:calc_exclude_triangles:Unable to create exclude triangles
