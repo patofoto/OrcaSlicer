@@ -29,3 +29,8 @@
 [warning]	2024-12-10 10:08:31.676239[Thread 0x00000002048a7840]:10:08:31: Script message received; value = {"sequence_id":1733843312,"command":"modelmall_model_advise_get"}, handler = wx
 [warning]	2024-12-10 11:08:31.698311[Thread 0x00000002048a7840]:11:08:31: Script message received; value = {"sequence_id":1733846912,"command":"modelmall_model_advise_get"}, handler = wx
 [error]	2024-12-10 11:18:19.983406[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-10 11:18:48.968426[Thread 0x00000002048a7840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-10 11:19:18.499703[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-10 11:19:22.618468[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-10 11:23:57.671643[Thread 0x00000002048a7840]:11:23:57: Script message received; value = {"sequence_id":1733847838,"command":"homepage_delete_all_recentfile"}, handler = wx
+[error]	2024-12-10 11:24:43.710957[Thread 0x00000002048a7840]:calc_exclude_triangles:Unable to create exclude triangles

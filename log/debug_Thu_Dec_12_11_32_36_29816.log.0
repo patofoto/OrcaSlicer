@@ -1,0 +1,29 @@
+[warning]	2024-12-12 11:32:36.568805[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-12 11:32:36.569042[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-12 11:32:36.569110[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-12 11:32:37.609714[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-12 11:32:38.127792[Thread 0x00000001f444f840]:11:32:38: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-12 11:32:38.199456[Thread 0x00000001f444f840]:11:32:38: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-12 11:32:38.227305[Thread 0x00000001f444f840]:11:32:38: Script message received; value = {"sequence_id":1734021158,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-12 11:32:38.227471[Thread 0x00000001f444f840]:11:32:38: Script message received; value = {"sequence_id":1734021158,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-12 11:32:38.227868[Thread 0x00000001f444f840]:11:32:38: Script message received; value = {"sequence_id":1734021158,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-12 11:32:38.228590[Thread 0x00000001f444f840]:11:32:38: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-12 11:32:38.886230[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 11:32:38.907427[Thread 0x00000001f444f840]:connect_server error: network_agent=0x6000017b1c80, ret=-2
+[warning]	2024-12-12 11:32:39.158551[Thread 0x0000000177e53000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-12 11:32:51.670639[Thread 0x00000001f444f840]:Unable to open the file/Users/pato/Desktop/Wrapper.step
+[error]	2024-12-12 11:34:32.064012[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:35:11.992971[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:07.853748[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:11.986977[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:14.415719[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:16.579258[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:23.716663[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:37:29.944093[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:39:11.832440[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:39:37.029744[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:41:43.530866[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 11:42:11.905056[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-12 11:42:20.651906[Thread 0x00000001f444f840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-12 11:42:33.213888[Thread 0x00000001f444f840]:reslice: process_completed_with_error, return directly
+[error]	2024-12-12 11:44:58.367438[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles

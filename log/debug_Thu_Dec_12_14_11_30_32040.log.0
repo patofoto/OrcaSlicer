@@ -1,0 +1,19 @@
+[warning]	2024-12-12 14:11:30.852670[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-12 14:11:30.853026[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-12 14:11:30.853090[Thread 0x00000001f444f840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-12 14:11:31.730346[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 14:11:31.733797[Thread 0x00000001f444f840]:Unable to open the file/Users/pato/Desktop/Wrapper.step
+[warning]	2024-12-12 14:11:32.226282[Thread 0x00000001f444f840]:14:11:32: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-12 14:11:32.294774[Thread 0x00000001f444f840]:14:11:32: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-12 14:11:32.315725[Thread 0x00000001f444f840]:14:11:32: Script message received; value = {"sequence_id":1734030692,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-12 14:11:32.316036[Thread 0x00000001f444f840]:14:11:32: Script message received; value = {"sequence_id":1734030692,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-12 14:11:32.316426[Thread 0x00000001f444f840]:14:11:32: Script message received; value = {"sequence_id":1734030692,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-12 14:11:32.316914[Thread 0x00000001f444f840]:14:11:32: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-12 14:11:32.927968[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 14:11:32.947508[Thread 0x00000001f444f840]:connect_server error: network_agent=0x600000d77b00, ret=-2
+[warning]	2024-12-12 14:11:33.534865[Thread 0x0000000358c9f000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-12 14:11:41.042421[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 14:11:41.199048[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-12 14:11:46.643132[Thread 0x000000035a82b000]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-12-12 14:12:19.646780[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-12 14:12:48.783641[Thread 0x00000001f444f840]:calc_exclude_triangles:Unable to create exclude triangles
