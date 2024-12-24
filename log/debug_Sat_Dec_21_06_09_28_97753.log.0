@@ -1,0 +1,106 @@
+[warning]	2024-12-21 06:09:28.854969[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-21 06:09:28.855173[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-21 06:09:28.855240[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-21 06:09:29.975705[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 06:09:29.980552[Thread 0x000000016db73000]:Unable to open the file/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step
+[error]	2024-12-21 06:09:29.980605[Thread 0x000000016d35b000]:Unable to open the file/Users/pato/Downloads/AMS_disconnect_tool_with_magnet_seperate_letters.stl
+[error]	2024-12-21 06:09:29.980609[Thread 0x000000016e38b000]:Unable to open the file/Users/pato/Downloads/Lightweight X Carriage XOL.step
+[error]	2024-12-21 06:09:29.981397[Thread 0x000000016df7f000]:Unable to open the file/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step
+[error]	2024-12-21 06:09:29.981415[Thread 0x000000016c737000]:Unable to open the file/Users/pato/Desktop/Component8.step
+[warning]	2024-12-21 06:09:30.371095[Thread 0x0000000202c9b840]:06:09:30: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 06:09:30.441650[Thread 0x0000000202c9b840]:06:09:30: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 06:09:30.466861[Thread 0x0000000202c9b840]:06:09:30: Script message received; value = {"sequence_id":1734779370,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 06:09:30.467027[Thread 0x0000000202c9b840]:06:09:30: Script message received; value = {"sequence_id":1734779370,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 06:09:30.473675[Thread 0x0000000202c9b840]:06:09:30: Script message received; value = {"sequence_id":1734779370,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 06:09:30.473941[Thread 0x0000000202c9b840]:06:09:30: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 06:09:31.124162[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 06:09:31.153038[Thread 0x0000000202c9b840]:connect_server error: network_agent=0x60000137a480, ret=-2
+[warning]	2024-12-21 06:09:31.387230[Thread 0x000000016c187000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-21 06:09:48.888662[Thread 0x0000000202c9b840]:06:09:48: Script message received; value = {"sequence_id":1734779389,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Disco on a Stick Diffuser.3mf"}}, handler = wx
+[warning]	2024-12-21 06:09:51.062733[Thread 0x0000000202c9b840]:06:09:51: Script message received; value = {"sequence_id":1734779391,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Downloads/AMS_disconnect_tool_with_magnet_seperate_letters.stl"}}, handler = wx
+[warning]	2024-12-21 06:09:53.133462[Thread 0x0000000202c9b840]:06:09:53: Script message received; value = {"sequence_id":1734779393,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Component8.step"}}, handler = wx
+[warning]	2024-12-21 06:09:55.412355[Thread 0x0000000202c9b840]:06:09:55: Script message received; value = {"sequence_id":1734779395,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Library/CloudStorage/Dropbox/make3/Projects/MWTB/Printing Files/Production/Candy Cane 12_17_2024 Test.3mf"}}, handler = wx
+[warning]	2024-12-21 06:09:56.806676[Thread 0x0000000202c9b840]:06:09:56: Script message received; value = {"sequence_id":1734779397,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step"}}, handler = wx
+[warning]	2024-12-21 06:09:58.231973[Thread 0x0000000202c9b840]:06:09:58: Script message received; value = {"sequence_id":1734779398,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step"}}, handler = wx
+[warning]	2024-12-21 06:09:59.567689[Thread 0x0000000202c9b840]:06:09:59: Script message received; value = {"sequence_id":1734779400,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Downloads/Lightweight X Carriage XOL.step"}}, handler = wx
+[warning]	2024-12-21 06:10:02.807555[Thread 0x0000000202c9b840]:06:10:02: Script message received; value = {"sequence_id":1734779403,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Library/CloudStorage/Dropbox/First_Layer_Adhesion_Test.3mf"}}, handler = wx
+[warning]	2024-12-21 06:10:04.937308[Thread 0x0000000202c9b840]:06:10:04: Script message received; value = {"sequence_id":1734779405,"command":"homepage_delete_recentfile","data":{"path":"/Users/pato/Library/CloudStorage/Dropbox/First Layer Adhesion Test.3mf"}}, handler = wx
+[warning]	2024-12-21 06:10:10.247725[Thread 0x0000000202c9b840]:06:10:10: Script message received; value = {"sequence_id":1734779410,"command":"homepage_delete_all_recentfile"}, handler = wx
+[error]	2024-12-21 06:53:16.778518[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 06:53:17.188745[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 07:09:30.707203[Thread 0x0000000202c9b840]:07:09:30: Script message received; value = {"sequence_id":1734782971,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-21 07:36:18.444449[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 07:36:31.849305[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 07:36:56.986325[Thread 0x000000016d35b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 07:36:56.986480[Thread 0x000000016e797000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 07:36:56.986705[Thread 0x00000003604cf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 07:36:56.986746[Thread 0x000000016cb43000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[warning]	2024-12-21 08:09:30.729051[Thread 0x0000000202c9b840]:08:09:30: Script message received; value = {"sequence_id":1734786571,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-21 08:47:11.289866[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 08:48:03.469666[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Downloads/First_Layer_Patch-0.25mm.stl
+[warning]	2024-12-21 08:48:23.530552[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":75000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 08:48:31.035082[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":80000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 08:48:37.635962[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":85000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 08:48:44.741690[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":90000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[error]	2024-12-21 08:48:44.754793[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 08:48:48.486848[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 09:00:22.070033[Thread 0x0000000202c9b840]:09:00:22: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 09:00:22.073409[Thread 0x0000000202c9b840]:09:00:22: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 09:00:22.085522[Thread 0x0000000202c9b840]:09:00:22: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:00:22.098425[Thread 0x0000000202c9b840]:09:00:22: Script message received; value = {"sequence_id":1734789622,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 09:00:22.098529[Thread 0x0000000202c9b840]:09:00:22: Script message received; value = {"sequence_id":1734789622,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 09:00:22.107103[Thread 0x0000000202c9b840]:09:00:22: Script message received; value = {"sequence_id":1734789622,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 09:00:22.107330[Thread 0x0000000202c9b840]:09:00:22: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:08:35.267454[Thread 0x0000000202c9b840]:09:08:35: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 09:08:35.300654[Thread 0x0000000202c9b840]:09:08:35: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 09:08:35.309971[Thread 0x0000000202c9b840]:09:08:35: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:08:35.337681[Thread 0x0000000202c9b840]:09:08:35: Script message received; value = {"sequence_id":1734790115,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 09:08:35.337973[Thread 0x0000000202c9b840]:09:08:35: Script message received; value = {"sequence_id":1734790115,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 09:08:35.347168[Thread 0x0000000202c9b840]:09:08:35: Script message received; value = {"sequence_id":1734790115,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 09:08:35.348910[Thread 0x0000000202c9b840]:09:08:35: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 09:09:35.817260[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 09:14:47.295469[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 09:38:21.942751[Thread 0x0000000202c9b840]:09:38:21: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 09:38:22.027044[Thread 0x0000000202c9b840]:09:38:22: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 09:38:22.038033[Thread 0x0000000202c9b840]:09:38:22: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:38:22.073356[Thread 0x0000000202c9b840]:09:38:22: Script message received; value = {"sequence_id":1734791902,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 09:38:22.073462[Thread 0x0000000202c9b840]:09:38:22: Script message received; value = {"sequence_id":1734791902,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 09:38:22.083039[Thread 0x0000000202c9b840]:09:38:22: Script message received; value = {"sequence_id":1734791902,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 09:38:22.083372[Thread 0x0000000202c9b840]:09:38:22: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:38:23.061523[Thread 0x0000000202c9b840]:09:38:23: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 09:38:23.071537[Thread 0x0000000202c9b840]:09:38:23: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 09:38:23.077433[Thread 0x0000000202c9b840]:09:38:23: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 09:38:23.089819[Thread 0x0000000202c9b840]:09:38:23: Script message received; value = {"sequence_id":1734791903,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 09:38:23.089924[Thread 0x0000000202c9b840]:09:38:23: Script message received; value = {"sequence_id":1734791903,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 09:38:23.097890[Thread 0x0000000202c9b840]:09:38:23: Script message received; value = {"sequence_id":1734791903,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 09:38:23.098156[Thread 0x0000000202c9b840]:09:38:23: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 09:42:03.347442[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 09:45:02.254723[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Downloads/EM_Cube-Unlabeled.stl
+[error]	2024-12-21 09:47:06.059218[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 09:47:34.513231[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 10:38:23.131631[Thread 0x0000000202c9b840]:10:38:23: Script message received; value = {"sequence_id":1734795503,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-21 10:43:37.612895[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 10:45:40.162200[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 10:46:09.996676[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 10:46:14.508894[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 10:46:15.681801[Thread 0x000000016bfe3000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[error]	2024-12-21 10:46:28.508140[Thread 0x000000016db73000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 10:46:28.508413[Thread 0x000000016cb43000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 10:46:28.508678[Thread 0x000000016d767000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-21 10:46:28.508783[Thread 0x00000003604cf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[warning]	2024-12-21 10:54:59.765847[Thread 0x0000000202c9b840]:10:54:59: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 10:54:59.770841[Thread 0x0000000202c9b840]:10:54:59: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 10:54:59.841871[Thread 0x0000000202c9b840]:10:54:59: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 10:54:59.889047[Thread 0x0000000202c9b840]:10:54:59: Script message received; value = {"sequence_id":1734796500,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 10:54:59.889151[Thread 0x0000000202c9b840]:10:54:59: Script message received; value = {"sequence_id":1734796500,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 10:54:59.897284[Thread 0x0000000202c9b840]:10:54:59: Script message received; value = {"sequence_id":1734796500,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 10:54:59.898981[Thread 0x0000000202c9b840]:10:54:59: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 10:55:00.714335[Thread 0x0000000202c9b840]:10:55:00: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 10:55:00.719338[Thread 0x0000000202c9b840]:10:55:00: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 10:55:00.726933[Thread 0x0000000202c9b840]:10:55:00: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 10:55:00.739130[Thread 0x0000000202c9b840]:10:55:00: Script message received; value = {"sequence_id":1734796501,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 10:55:00.739615[Thread 0x0000000202c9b840]:10:55:00: Script message received; value = {"sequence_id":1734796501,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 10:55:00.747362[Thread 0x0000000202c9b840]:10:55:00: Script message received; value = {"sequence_id":1734796501,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 10:55:00.747751[Thread 0x0000000202c9b840]:10:55:00: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 11:55:00.755398[Thread 0x0000000202c9b840]:11:55:00: Script message received; value = {"sequence_id":1734800101,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-21 12:51:16.121357[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles

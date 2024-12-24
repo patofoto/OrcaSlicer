@@ -1,0 +1,52 @@
+[warning]	2024-12-19 12:32:16.329919[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-19 12:32:16.330137[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-19 12:32:16.330204[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-19 12:32:17.327732[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:17.332172[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Downloads/AMS_disconnect_tool_with_magnet_seperate_letters.stl
+[error]	2024-12-19 12:32:17.332270[Thread 0x000000016d35b000]:Unable to open the file/Users/pato/Downloads/CNC SB Carriage.STEP
+[error]	2024-12-19 12:32:17.332281[Thread 0x000000016db73000]:Unable to open the file/Users/pato/Downloads/Lightweight X Carriage XOL.step
+[error]	2024-12-19 12:32:17.332316[Thread 0x000000016e797000]:Unable to open the file/Users/pato/Downloads/doomcube-350-voron-24-top-and-bottom-skirt-mod-model_files/panellenri-20-x2.3mf
+[error]	2024-12-19 12:32:17.332325[Thread 0x000000016df7f000]:Unable to open the file/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step
+[error]	2024-12-19 12:32:17.332805[Thread 0x000000016cf4f000]:Unable to open the file/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step
+[error]	2024-12-19 12:32:17.332953[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Desktop/Component8.step
+[error]	2024-12-19 12:32:17.332963[Thread 0x000000016e38b000]:Unable to open the file/Users/pato/Downloads/voron-discodaylight-on-a-stick-led-mount-tray-with-snap-on-diffuser-model_files/XXL (350 Vorons)/disco-on-a-stick-xxl.step
+[warning]	2024-12-19 12:32:17.762388[Thread 0x0000000202c9b840]:12:32:17: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-19 12:32:17.831461[Thread 0x0000000202c9b840]:12:32:17: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-19 12:32:17.856352[Thread 0x0000000202c9b840]:12:32:17: Script message received; value = {"sequence_id":1734629538,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-19 12:32:17.856523[Thread 0x0000000202c9b840]:12:32:17: Script message received; value = {"sequence_id":1734629538,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-19 12:32:17.860454[Thread 0x0000000202c9b840]:12:32:17: Script message received; value = {"sequence_id":1734629538,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-19 12:32:17.860703[Thread 0x0000000202c9b840]:12:32:17: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-19 12:32:18.474497[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:18.501068[Thread 0x0000000202c9b840]:connect_server error: network_agent=0x600003cd7020, ret=-2
+[warning]	2024-12-19 12:32:18.746166[Thread 0x0000000336ec7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-19 12:32:21.229690[Thread 0x0000000202c9b840]:12:32:21: Script message received; value = {"sequence_id":1734629541,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Voron Upgrades.3mf"}}, handler = wx
+[error]	2024-12-19 12:32:21.233964[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:21.454006[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:21.464858[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:21.475065[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:21.484579[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 12:32:21.649406[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-12-19 13:32:18.060879[Thread 0x0000000202c9b840]:13:32:18: Script message received; value = {"sequence_id":1734633138,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-19 14:01:33.077015[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:35.906157[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:38.197594[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:40.306241[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:41.463504[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:41.677748[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:43.145402[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:44.059868[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:45.352503[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:45.609036[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:50.087166[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:01:57.181259[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:02:01.068447[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.070571[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.071831[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.072951[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.326363[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:02:01.796041[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.797806[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.799148[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:01.800662[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-19 14:02:04.106762[Thread 0x0000000202c9b840]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-12-19 14:24:47.658291[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles

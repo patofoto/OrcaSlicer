@@ -1,0 +1,21 @@
+{
+    "bottom_surface_pattern": "concentric",
+    "enable_overhang_speed": "0",
+    "enable_support": "1",
+    "from": "User",
+    "independent_support_layer_height": "0",
+    "inherits": "0.12mm High Quality @BBL X1C",
+    "name": "0.12mm High Quality @BBL X1C - Candy Cane",
+    "print_settings_id": "0.12mm High Quality @BBL X1C - Candy Cane",
+    "raft_layers": "3",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "cubic",
+    "support_filament": "1",
+    "support_interface_filament": "2",
+    "support_interface_pattern": "rectilinear_interlaced",
+    "support_interface_spacing": "0",
+    "support_top_z_distance": "0",
+    "top_surface_pattern": "concentric",
+    "version": "1.10.0.30",
+    "wall_loops": "5"
+}

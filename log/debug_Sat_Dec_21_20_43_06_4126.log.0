@@ -1,0 +1,31 @@
+[warning]	2024-12-21 20:43:06.758412[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-21 20:43:06.758638[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-21 20:43:06.758703[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-21 20:43:07.837603[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 20:43:07.841922[Thread 0x000000017694b000]:Unable to open the file/Users/pato/Downloads/omnifixo-m44-insertdividers-model_files/fielbox-insert-v3.step
+[warning]	2024-12-21 20:43:08.258524[Thread 0x00000001ed24b840]:20:43:08: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 20:43:08.327149[Thread 0x00000001ed24b840]:20:43:08: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 20:43:08.351460[Thread 0x00000001ed24b840]:20:43:08: Script message received; value = {"sequence_id":1734831788,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 20:43:08.351626[Thread 0x00000001ed24b840]:20:43:08: Script message received; value = {"sequence_id":1734831788,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 20:43:08.352719[Thread 0x00000001ed24b840]:20:43:08: Script message received; value = {"sequence_id":1734831788,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 20:43:08.352958[Thread 0x00000001ed24b840]:20:43:08: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 20:43:08.982614[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 20:43:09.011995[Thread 0x00000001ed24b840]:connect_server error: network_agent=0x600003af4ce0, ret=-2
+[warning]	2024-12-21 20:43:09.275489[Thread 0x0000000177fb7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-21 20:43:34.441719[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-12-21 20:44:02.445509[Thread 0x00000001761f7000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-21 21:13:07.457568[Thread 0x00000001ed24b840]:21:13:07: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 21:13:07.464043[Thread 0x00000001ed24b840]:21:13:07: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 21:13:07.473719[Thread 0x00000001ed24b840]:21:13:07: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 21:13:07.490886[Thread 0x00000001ed24b840]:21:13:07: Script message received; value = {"sequence_id":1734833587,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 21:13:07.491382[Thread 0x00000001ed24b840]:21:13:07: Script message received; value = {"sequence_id":1734833587,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 21:13:07.492502[Thread 0x00000001ed24b840]:21:13:07: Script message received; value = {"sequence_id":1734833587,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 21:13:07.492885[Thread 0x00000001ed24b840]:21:13:07: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 21:13:08.530506[Thread 0x00000001ed24b840]:21:13:08: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 21:13:08.556661[Thread 0x00000001ed24b840]:21:13:08: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2024-12-21 21:13:08.567050[Thread 0x00000001ed24b840]:21:13:08: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 21:13:08.591384[Thread 0x00000001ed24b840]:21:13:08: Script message received; value = {"sequence_id":1734833589,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 21:13:08.591496[Thread 0x00000001ed24b840]:21:13:08: Script message received; value = {"sequence_id":1734833589,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 21:13:08.593098[Thread 0x00000001ed24b840]:21:13:08: Script message received; value = {"sequence_id":1734833589,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 21:13:08.593801[Thread 0x00000001ed24b840]:21:13:08: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 21:53:56.894896[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles

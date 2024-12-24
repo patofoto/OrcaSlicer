@@ -1,0 +1,25 @@
+[warning]	2024-12-20 18:38:41.919770[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-20 18:38:41.919993[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-20 18:38:41.920061[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-20 18:38:42.975576[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-20 18:38:42.980627[Thread 0x00000001724a3000]:Unable to open the file/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step
+[error]	2024-12-20 18:38:42.980833[Thread 0x0000000171473000]:Unable to open the file/Users/pato/Downloads/Lightweight X Carriage XOL.step
+[error]	2024-12-20 18:38:42.980838[Thread 0x00000001728af000]:Unable to open the file/Users/pato/Downloads/CNC SB Carriage.STEP
+[error]	2024-12-20 18:38:42.980855[Thread 0x0000000171c8b000]:Unable to open the file/Users/pato/Downloads/AMS_disconnect_tool_with_magnet_seperate_letters.stl
+[error]	2024-12-20 18:38:42.981286[Thread 0x0000000172097000]:Unable to open the file/Users/pato/Desktop/Component8.step
+[error]	2024-12-20 18:38:42.981684[Thread 0x0000000170c5b000]:Unable to open the file/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step
+[warning]	2024-12-20 18:38:43.545073[Thread 0x0000000202c9b840]:18:38:43: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-20 18:38:43.616756[Thread 0x0000000202c9b840]:18:38:43: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-20 18:38:43.640458[Thread 0x0000000202c9b840]:18:38:43: Script message received; value = {"sequence_id":1734737924,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-20 18:38:43.640916[Thread 0x0000000202c9b840]:18:38:43: Script message received; value = {"sequence_id":1734737924,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-20 18:38:43.647033[Thread 0x0000000202c9b840]:18:38:43: Script message received; value = {"sequence_id":1734737924,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-20 18:38:43.647911[Thread 0x0000000202c9b840]:18:38:43: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-20 18:38:44.291306[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-20 18:38:44.320414[Thread 0x0000000202c9b840]:connect_server error: network_agent=0x600000846d00, ret=-2
+[warning]	2024-12-20 18:38:44.527478[Thread 0x0000000351f63000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-20 18:39:34.012014[Thread 0x00000001700fb000]:Arrange full params: {"min_obj_distance":5000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-20 18:39:46.402729[Thread 0x00000001700fb000]:Arrange full params: {"min_obj_distance":70000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-20 18:39:54.055495[Thread 0x00000001700fb000]:Arrange full params: {"min_obj_distance":75000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":320.000000,
+[warning]	2024-12-20 19:38:43.870448[Thread 0x0000000202c9b840]:19:38:43: Script message received; value = {"sequence_id":1734741524,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-20 20:38:43.887099[Thread 0x0000000202c9b840]:20:38:43: Script message received; value = {"sequence_id":1734745124,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2024-12-20 21:00:55.366641[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,37 @@
+[warning]	2024-12-17 13:47:56.879989[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-17 13:47:56.880179[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-17 13:47:56.880248[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-17 13:47:57.872051[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-17 13:47:57.876108[Thread 0x000000017125b000]:Unable to open the file/Users/pato/Downloads/doomcube-350-voron-24-top-and-bottom-skirt-mod-model_files/panellenri-20-x2.3mf
+[error]	2024-12-17 13:47:57.876184[Thread 0x0000000172eaf000]:Unable to open the file/Users/pato/Desktop/Voron Accessories.3mf
+[error]	2024-12-17 13:47:57.876198[Thread 0x0000000171e7f000]:Unable to open the file/Users/pato/Downloads/Lightweight X Carriage XOL.step
+[error]	2024-12-17 13:47:57.876209[Thread 0x000000017228b000]:Unable to open the file/Users/pato/Desktop/Video Camera Bracket v10.3mf
+[error]	2024-12-17 13:47:57.876213[Thread 0x000000017125b000]:Unable to open the file/Users/pato/Downloads/CNC SB Carriage.STEP
+[error]	2024-12-17 13:47:57.876227[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step
+[error]	2024-12-17 13:47:57.877113[Thread 0x0000000171667000]:Unable to open the file/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step
+[error]	2024-12-17 13:47:57.877351[Thread 0x0000000172aa3000]:Unable to open the file/Users/pato/Downloads/voron-discodaylight-on-a-stick-led-mount-tray-with-snap-on-diffuser-model_files/XXL (350 Vorons)/disco-on-a-stick-xxl.step
+[warning]	2024-12-17 13:47:58.366584[Thread 0x0000000202c9b840]:13:47:58: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-17 13:47:58.435878[Thread 0x0000000202c9b840]:13:47:58: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-17 13:47:58.458041[Thread 0x0000000202c9b840]:13:47:58: Script message received; value = {"sequence_id":1734461278,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-17 13:47:58.458190[Thread 0x0000000202c9b840]:13:47:58: Script message received; value = {"sequence_id":1734461278,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-17 13:47:58.462760[Thread 0x0000000202c9b840]:13:47:58: Script message received; value = {"sequence_id":1734461278,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-17 13:47:58.463061[Thread 0x0000000202c9b840]:13:47:58: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-17 13:47:59.073368[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-17 13:47:59.093515[Thread 0x0000000202c9b840]:connect_server error: network_agent=0x600001543070, ret=-2
+[warning]	2024-12-17 13:47:59.513789[Thread 0x0000000445d83000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-17 13:48:57.446886[Thread 0x0000000171667000]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 122 NextTarget: 122 Distance to top: 62 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x135d8f460: Radius: 1349954 at layer: 123 NextTarget: 123 Distance to top: 61 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2024-12-17 13:48:57.479674[Thread 0x0000000171a73000]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 90 NextTarget: 90 Distance to top: 89 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x4403e2198: Radius: 1349954 at layer: 91 NextTarget: 91 Distance to top: 88 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2024-12-17 13:48:57.572718[Thread 0x0000000171e7f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.572734[Thread 0x0000000171667000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.572781[Thread 0x00000001732bb000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.572829[Thread 0x0000000447bbf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.572874[Thread 0x0000000171a73000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.572946[Thread 0x000000017228b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.573248[Thread 0x0000000172697000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.573806[Thread 0x0000000172eaf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.573978[Thread 0x0000000172aa3000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.574019[Thread 0x000000017125b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 13:48:57.574912[Thread 0x0000000447bbf000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2024-12-17 14:18:08.496385[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles

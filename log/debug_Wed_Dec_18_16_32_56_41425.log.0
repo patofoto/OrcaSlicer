@@ -1,0 +1,21 @@
+[warning]	2024-12-18 16:32:56.298704[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-18 16:32:56.299128[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-18 16:32:56.299202[Thread 0x0000000202c9b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-18 16:32:57.254031[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-18 16:32:57.257963[Thread 0x000000016ecf7000]:Unable to open the file/Users/pato/Downloads/Lightweight X Carriage XOL.step
+[error]	2024-12-18 16:32:57.257976[Thread 0x000000016ecf7000]:Unable to open the file/Users/pato/Downloads/CNC SB Carriage.STEP
+[error]	2024-12-18 16:32:57.257981[Thread 0x000000016ecf7000]:Unable to open the file/Users/pato/Downloads/doomcube-350-voron-24-top-and-bottom-skirt-mod-model_files/panellenri-20-x2.3mf
+[error]	2024-12-18 16:32:57.257996[Thread 0x000000016f50f000]:Unable to open the file/Users/pato/Desktop/Candy Cane Bottom Solid Sliced.step
+[error]	2024-12-18 16:32:57.258044[Thread 0x0000000202c9b840]:Unable to open the file/Users/pato/Desktop/Component8.step
+[error]	2024-12-18 16:32:57.258109[Thread 0x000000016f103000]:Unable to open the file/Users/pato/Downloads/voron-discodaylight-on-a-stick-led-mount-tray-with-snap-on-diffuser-model_files/XXL (350 Vorons)/disco-on-a-stick-xxl.step
+[error]	2024-12-18 16:32:57.258175[Thread 0x000000016fd27000]:Unable to open the file/Users/pato/Downloads/Voron 2.4 Nozzle Cleaning Brush v4.step
+[warning]	2024-12-18 16:32:57.814868[Thread 0x0000000202c9b840]:16:32:57: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-18 16:32:57.884214[Thread 0x0000000202c9b840]:16:32:57: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-18 16:32:57.910768[Thread 0x0000000202c9b840]:16:32:57: Script message received; value = {"sequence_id":1734557578,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-18 16:32:57.910893[Thread 0x0000000202c9b840]:16:32:57: Script message received; value = {"sequence_id":1734557578,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-18 16:32:57.914951[Thread 0x0000000202c9b840]:16:32:57: Script message received; value = {"sequence_id":1734557578,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-18 16:32:57.915309[Thread 0x0000000202c9b840]:16:32:57: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-18 16:32:58.520629[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-18 16:32:58.549277[Thread 0x0000000202c9b840]:connect_server error: network_agent=0x600000d8c770, ret=-2
+[warning]	2024-12-18 16:32:58.783382[Thread 0x0000000347c13000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2024-12-18 16:33:12.469088[Thread 0x0000000202c9b840]:calc_exclude_triangles:Unable to create exclude triangles

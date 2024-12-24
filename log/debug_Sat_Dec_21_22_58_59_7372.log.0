@@ -1,0 +1,18 @@
+[warning]	2024-12-21 22:59:00.030636[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-12-21 22:59:00.030839[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-12-21 22:59:00.030905[Thread 0x00000001ed24b840]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-12-21 22:59:01.062451[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 22:59:01.066784[Thread 0x000000016ec93000]:Unable to open the file/Users/pato/Downloads/omnifixo-m44-insertdividers-model_files/fielbox-insert-v3.step
+[warning]	2024-12-21 22:59:01.477508[Thread 0x00000001ed24b840]:22:59:01: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2024-12-21 22:59:01.545193[Thread 0x00000001ed24b840]:22:59:01: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2024-12-21 22:59:01.568643[Thread 0x00000001ed24b840]:22:59:01: Script message received; value = {"sequence_id":1734839942,"command":"get_login_info"}, handler = wx
+[warning]	2024-12-21 22:59:01.568811[Thread 0x00000001ed24b840]:22:59:01: Script message received; value = {"sequence_id":1734839942,"command":"get_recent_projects"}, handler = wx
+[warning]	2024-12-21 22:59:01.570273[Thread 0x00000001ed24b840]:22:59:01: Script message received; value = {"sequence_id":1734839942,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2024-12-21 22:59:01.570520[Thread 0x00000001ed24b840]:22:59:01: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2024-12-21 22:59:02.200500[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 22:59:02.226683[Thread 0x00000001ed24b840]:connect_server error: network_agent=0x6000011e2170, ret=-2
+[warning]	2024-12-21 22:59:02.400719[Thread 0x000000016fe67000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2024-12-21 22:59:05.424265[Thread 0x00000001ed24b840]:22:59:05: Script message received; value = {"sequence_id":1734839945,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Disco on a Stick Diffuser.3mf"}}, handler = wx
+[error]	2024-12-21 22:59:05.427553[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 22:59:05.512851[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-12-21 23:02:46.228018[Thread 0x00000001ed24b840]:calc_exclude_triangles:Unable to create exclude triangles

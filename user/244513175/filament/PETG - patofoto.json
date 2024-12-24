@@ -2,6 +2,9 @@
     "default_filament_colour": [
         "#DADBDB"
     ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
     "enable_pressure_advance": [
         "1"
     ],
@@ -9,7 +12,7 @@
         "1.25"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "0.99"
     ],
     "filament_max_volumetric_speed": [
         "16"
@@ -21,8 +24,11 @@
     "inherits": "Voron Generic PETG",
     "is_custom_defined": "0",
     "name": "PETG - patofoto",
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
     "pressure_advance": [
-        "0.03"
+        "0.04"
     ],
     "version": "2.2.0.4"
 }

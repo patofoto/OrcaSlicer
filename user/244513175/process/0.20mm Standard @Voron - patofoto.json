@@ -1,8 +1,12 @@
 {
+    "enable_support": "1",
     "extra_perimeters_on_overhangs": "1",
     "from": "User",
     "infill_wall_overlap": "15%",
     "inherits": "0.20mm Standard @Voron",
+    "initial_layer_line_width": "125%",
+    "initial_layer_print_height": "0.25",
+    "internal_solid_infill_line_width": "105%",
     "is_custom_defined": "0",
     "name": "0.20mm Standard @Voron - patofoto",
     "only_one_wall_first_layer": "1",
@@ -14,6 +18,9 @@
     "skirt_loops": "3",
     "slowdown_for_curled_perimeters": "0",
     "sparse_infill_pattern": "cubic",
+    "support_line_width": "105%",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
     "top_surface_acceleration": "2000",
     "version": "2.2.0.4",
     "wall_sequence": "inner-outer-inner wall"

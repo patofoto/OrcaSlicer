@@ -1,0 +1,12 @@
+{
+    "fan_max_speed": [
+        "80"
+    ],
+    "filament_settings_id": [
+        "Bambu PETG HF @BBL X1C - Candy Cane"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG HF @BBL X1C",
+    "name": "Bambu PETG HF @BBL X1C - Candy Cane",
+    "version": "1.10.0.30"
+}
