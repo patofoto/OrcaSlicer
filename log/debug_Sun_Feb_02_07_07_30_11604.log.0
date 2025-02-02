@@ -1,0 +1,48 @@
+[warning]	2025-02-02 07:07:30.553451[Thread 0x00000001f1218240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-02-02 07:07:30.553636[Thread 0x00000001f1218240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-02-02 07:07:30.553702[Thread 0x00000001f1218240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-02-02 07:07:31.519592[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:31.523391[Thread 0x000000016f12b000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[error]	2025-02-02 07:07:31.523396[Thread 0x000000016f537000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[error]	2025-02-02 07:07:31.523405[Thread 0x000000016f537000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-02-02 07:07:31.523409[Thread 0x000000016f537000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[error]	2025-02-02 07:07:31.523413[Thread 0x000000016f537000]:Unable to open the file/Users/pato/Desktop/Pentax KX Diopter Cap v2.3mf
+[error]	2025-02-02 07:07:31.523417[Thread 0x000000016f537000]:Unable to open the file/Users/pato/Desktop/Bottom Lid Ender3v2.3mf
+[warning]	2025-02-02 07:07:31.990302[Thread 0x00000001f1218240]:07:07:31: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-02 07:07:32.058681[Thread 0x00000001f1218240]:07:07:32: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-02 07:07:32.081271[Thread 0x00000001f1218240]:07:07:32: Script message received; value = {"sequence_id":1738498052,"command":"get_login_info"}, handler = wx
+[warning]	2025-02-02 07:07:32.081614[Thread 0x00000001f1218240]:07:07:32: Script message received; value = {"sequence_id":1738498052,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-02-02 07:07:32.086874[Thread 0x00000001f1218240]:07:07:32: Script message received; value = {"sequence_id":1738498052,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-02-02 07:07:32.087072[Thread 0x00000001f1218240]:07:07:32: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-02 07:07:32.705044[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:32.739102[Thread 0x00000001f1218240]:connect_server error: network_agent=0x60000164d1b0, ret=-2
+[warning]	2025-02-02 07:07:32.934028[Thread 0x000000017e567000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-02-02 07:07:35.604771[Thread 0x00000001f1218240]:07:07:35: Script message received; value = {"sequence_id":1738498056,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-02-02 07:07:35.608501[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.860174[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.870618[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.880388[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.889631[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.898953[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.899407[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.899807[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.909291[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.918874[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.928227[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:07:35.937733[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:27:30.778515[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:27:49.328799[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:28:11.436729[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-02 07:30:57.166510[Thread 0x00000001f1218240]:07:30:57: Script message received; value = {"sequence_id":1738499457,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-02-02 07:30:57.169805[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.445657[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.455220[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.464856[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.474458[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.484293[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.484822[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.485216[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.494712[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.504288[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.513436[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-02 07:30:57.522852[Thread 0x00000001f1218240]:calc_exclude_triangles:Unable to create exclude triangles

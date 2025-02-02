@@ -1,0 +1,37 @@
+[warning]	2025-01-31 06:08:26.205834[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-31 06:08:26.205985[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-31 06:08:26.206048[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-31 06:08:27.272367[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:08:27.276154[Thread 0x000000016f223000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[error]	2025-01-31 06:08:27.276179[Thread 0x000000016fa3b000]:Unable to open the file/Users/pato/Desktop/Bottom Lid Ender3v2.3mf
+[error]	2025-01-31 06:08:27.276267[Thread 0x0000000170a6b000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[error]	2025-01-31 06:08:27.276270[Thread 0x000000017065f000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-01-31 06:08:27.276271[Thread 0x0000000170253000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[warning]	2025-01-31 06:08:27.754765[Thread 0x00000001ecf98240]:06:08:27: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-31 06:08:27.768899[Thread 0x00000001ecf98240]:06:08:27: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-31 06:08:27.794392[Thread 0x00000001ecf98240]:06:08:27: Script message received; value = {"sequence_id":1738321708,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-31 06:08:27.794787[Thread 0x00000001ecf98240]:06:08:27: Script message received; value = {"sequence_id":1738321708,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-31 06:08:27.809039[Thread 0x00000001ecf98240]:06:08:27: Script message received; value = {"sequence_id":1738321708,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-31 06:08:27.809222[Thread 0x00000001ecf98240]:06:08:27: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-31 06:08:28.450496[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:08:28.493181[Thread 0x00000001ecf98240]:connect_server error: network_agent=0x600000789f80, ret=-2
+[warning]	2025-01-31 06:08:28.700644[Thread 0x00000004379b7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-01-31 06:10:05.127287[Thread 0x00000001ecf98240]:06:10:05: Script message received; value = {"sequence_id":1738321805,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-01-31 06:10:05.130893[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.383457[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.393443[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.402388[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.411551[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.421049[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.421476[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.421855[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.431103[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.440106[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.449253[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 06:10:05.458365[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-31 06:18:28.709069[Thread 0x000000016eacf000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-01-31 06:18:48.318085[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-31 06:18:49.752091[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-31 06:20:17.928669[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-31 06:20:31.572650[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-31 06:27:39.360841[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles

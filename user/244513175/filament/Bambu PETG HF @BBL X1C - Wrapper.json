@@ -1,0 +1,18 @@
+{
+    "filament_settings_id": [
+        "Bambu PETG HF @BBL X1C - Wrapper"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG HF @BBL X1C",
+    "name": "Bambu PETG HF @BBL X1C - Wrapper",
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.10.0.32"
+}

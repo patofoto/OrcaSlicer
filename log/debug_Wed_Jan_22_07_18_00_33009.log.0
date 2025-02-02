@@ -1,0 +1,118 @@
+[warning]	2025-01-22 07:18:01.140949[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-22 07:18:01.141167[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-22 07:18:01.141231[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-22 07:18:01.473244[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.28mm Extra Draft @ Ender3v2.json!
+[error]	2025-01-22 07:18:01.474539[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.20mm Standard @ Voron Prints Sped Up Test.json!
+[error]	2025-01-22 07:18:01.476139[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.20mm Standard @ Voron Prints.json!
+[error]	2025-01-22 07:18:01.477981[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.2mm Normal @ Ender3v2.json!
+[error]	2025-01-22 07:18:01.479210[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.20mm Standard @ Voron Prints Quick.json!
+[error]	2025-01-22 07:18:01.480252[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/process/0.20mm Standard @ Voron Pyramids.json!
+[error]	2025-01-22 07:18:01.482193[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox Transparent White PLA ID=6.json!
+[error]	2025-01-22 07:18:01.482658[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox Black PLA Pro+.json!
+[error]	2025-01-22 07:18:01.483112[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Carbon Fiber PLA.json!
+[error]	2025-01-22 07:18:01.484594[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox True Black PLA.json!
+[error]	2025-01-22 07:18:01.485139[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox Silk Blue PLA ID=1.json!
+[error]	2025-01-22 07:18:01.485762[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Ender3v2 PLA.json!
+[error]	2025-01-22 07:18:01.485985[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox True Black PLA ID=2.json!
+[error]	2025-01-22 07:18:01.486909[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox True Red PLA.json!
+[error]	2025-01-22 07:18:01.487956[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox True Orange PLA ID=3.json!
+[error]	2025-01-22 07:18:01.488341[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox White PLA.json!
+[error]	2025-01-22 07:18:01.489176[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/Hatchbox True Orange PLA.json!
+[error]	2025-01-22 07:18:01.490301[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/filament/My Generic PLA - Copy.json!
+[error]	2025-01-22 07:18:01.492402[Thread 0x00000001fd04c240]:can not find parent for config /Users/pato/Library/Application Support/OrcaSlicer/user/244513175/machine/Ender3v2 Klipper 0.4mm - patofoto.json!
+[error]	2025-01-22 07:18:02.111525[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 07:18:02.115792[Thread 0x0000000170cd7000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[error]	2025-01-22 07:18:02.115809[Thread 0x00000001708cb000]:Unable to open the file/Users/pato/Desktop/Gun Stand.3mf
+[error]	2025-01-22 07:18:02.115844[Thread 0x00000001710e3000]:Unable to open the file/Users/pato/Desktop/5 Roll Tape Dispenser.3mf
+[error]	2025-01-22 07:18:02.115853[Thread 0x00000001708cb000]:Unable to open the file/Users/pato/Desktop/HDMI7 screen.case.3mf
+[error]	2025-01-22 07:18:02.115852[Thread 0x0000000170cd7000]:Unable to open the file/Users/pato/Downloads/Skadis_Q-TIP.3mf
+[error]	2025-01-22 07:18:02.115867[Thread 0x0000000172113000]:Unable to open the file/Users/pato/Desktop/Tape Dispenser.3mf
+[error]	2025-01-22 07:18:02.115885[Thread 0x0000000171d07000]:Unable to open the file/Users/pato/Downloads/Anti-splash+cover+BambuLab+for+nozzle+wiper.3mf
+[error]	2025-01-22 07:18:02.115889[Thread 0x00000001708cb000]:Unable to open the file/Users/pato/Downloads/card.shuffler.v3.blockers_0.6n_0.3mm_PLA_50m.3mf
+[warning]	2025-01-22 07:18:02.469395[Thread 0x00000001fd04c240]:07:18:02: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-22 07:18:02.541251[Thread 0x00000001fd04c240]:07:18:02: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-22 07:18:02.564298[Thread 0x00000001fd04c240]:07:18:02: Script message received; value = {"sequence_id":1737548283,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-22 07:18:02.564431[Thread 0x00000001fd04c240]:07:18:02: Script message received; value = {"sequence_id":1737548283,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-22 07:18:02.565916[Thread 0x00000001fd04c240]:07:18:02: Script message received; value = {"sequence_id":1737548283,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 07:18:02.566089[Thread 0x00000001fd04c240]:07:18:02: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-22 07:18:03.210437[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 07:18:03.233157[Thread 0x00000001fd04c240]:connect_server error: network_agent=0x6000010308c0, ret=-2
+[warning]	2025-01-22 07:18:03.570913[Thread 0x0000000170433000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-01-22 07:18:08.029570[Thread 0x00000001fd04c240]:07:18:08: Script message received; value = {"sequence_id":1737548288,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Lids.3mf"}}, handler = wx
+[error]	2025-01-22 07:18:08.033425[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 07:18:08.158419[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 07:18:08.168595[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 07:18:08.267473[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 07:18:08.277023[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @ Voron Prints, just skip
+[warning]	2025-01-22 07:18:08.277091[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @ Voron Prints Quick, just skip
+[warning]	2025-01-22 07:18:08.277151[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @ Voron Prints Sped Up Test, just skip
+[warning]	2025-01-22 07:18:08.277207[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @ Voron Pyramids, just skip
+[warning]	2025-01-22 07:18:08.277236[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.28mm Extra Draft @ Ender3v2, just skip
+[warning]	2025-01-22 07:18:08.277287[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset 0.2mm Normal @ Ender3v2, just skip
+[warning]	2025-01-22 07:18:08.277315[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Carbon Fiber PLA, just skip
+[warning]	2025-01-22 07:18:08.277375[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Ender3v2 Klipper 0.4mm - patofoto, just skip
+[warning]	2025-01-22 07:18:08.277400[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Ender3v2 PLA, just skip
+[warning]	2025-01-22 07:18:08.277420[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox Black PLA Pro+, just skip
+[warning]	2025-01-22 07:18:08.277442[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox Silk Blue PLA ID=1, just skip
+[warning]	2025-01-22 07:18:08.277457[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox Transparent White PLA ID=6, just skip
+[warning]	2025-01-22 07:18:08.277474[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox True Black PLA, just skip
+[warning]	2025-01-22 07:18:08.277491[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox True Black PLA ID=2, just skip
+[warning]	2025-01-22 07:18:08.277506[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox True Orange PLA, just skip
+[warning]	2025-01-22 07:18:08.277525[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox True Orange PLA ID=3, just skip
+[warning]	2025-01-22 07:18:08.277540[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox True Red PLA, just skip
+[warning]	2025-01-22 07:18:08.277555[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset Hatchbox White PLA, just skip
+[warning]	2025-01-22 07:18:08.277563[Thread 0x00000001fd04c240]:load_user_preset, can not find inherit preset for user preset My Generic PLA - Copy, just skip
+[error]	2025-01-22 07:19:31.896287[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 07:19:38.335307[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 07:20:49.509272[Thread 0x0000000408bb7000]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+
+[Error 7], HTTP 0, body: ``
+[warning]	2025-01-22 08:18:02.632352[Thread 0x00000001fd04c240]:08:18:02: Script message received; value = {"sequence_id":1737551883,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 08:37:06.085937[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 08:40:15.640461[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:12:06.092117[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:13:12.649471[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-22 09:18:02.683007[Thread 0x00000001fd04c240]:09:18:02: Script message received; value = {"sequence_id":1737555483,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 09:20:00.245823[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:20:05.177852[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:31:19.149725[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:19.431191[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Eryone.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:19.505871[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:19.589128[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:48.783208[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Elegoo.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:48.952039[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Eryone.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:48.990118[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:31:49.031863[Thread 0x00000001fd04c240]:LoadProfileFamily: parse /Applications/OrcaSlicer.app/Contents/Resources/profiles/Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2025-01-22 09:36:58.104091[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:41:59.318461[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:42:15.464810[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:43:57.510867[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:43:57.630086[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:43:57.654186[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 09:58:12.715299[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-22 10:18:02.643062[Thread 0x00000001fd04c240]:10:18:02: Script message received; value = {"sequence_id":1737559083,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 10:59:38.397933[Thread 0x00000001fd04c240]:10:59:38: Script message received; value = {"sequence_id":1737561578,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Top Lid Voron.3mf"}}, handler = wx
+[error]	2025-01-22 10:59:38.402365[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 10:59:38.508490[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-22 11:18:02.695204[Thread 0x00000001fd04c240]:11:18:02: Script message received; value = {"sequence_id":1737562683,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 11:56:17.584894[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 12:18:02.680952[Thread 0x00000001fd04c240]:12:18:02: Script message received; value = {"sequence_id":1737566283,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 12:36:51.550087[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 13:18:02.684773[Thread 0x00000001fd04c240]:13:18:02: Script message received; value = {"sequence_id":1737569883,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 13:58:10.417089[Thread 0x00000001fd04c240]:13:58:10: Script message received; value = {"sequence_id":1737572290,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Lids.3mf"}}, handler = wx
+[error]	2025-01-22 13:58:10.425497[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 13:58:10.547000[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 13:58:10.556861[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 13:58:10.657326[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 13:58:32.645805[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 14:18:02.614270[Thread 0x00000001fd04c240]:14:18:02: Script message received; value = {"sequence_id":1737573483,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 14:53:05.820947[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-22 15:17:12.060677[Thread 0x00000001fd04c240]:15:17:12: Script message received; value = {"sequence_id":1737577032,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Lids.3mf"}}, handler = wx
+[error]	2025-01-22 15:17:12.079634[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 15:17:12.187660[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 15:17:12.196995[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 15:17:12.294926[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 15:17:21.485895[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 15:18:02.575954[Thread 0x00000001fd04c240]:15:18:02: Script message received; value = {"sequence_id":1737577083,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 16:18:02.741012[Thread 0x00000001fd04c240]:16:18:02: Script message received; value = {"sequence_id":1737580683,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 16:54:16.573252[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles

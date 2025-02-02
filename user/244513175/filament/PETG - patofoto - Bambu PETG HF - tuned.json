@@ -1,0 +1,58 @@
+{
+    "default_filament_colour": [
+        "#DADBDB"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_density": [
+        "1.25"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_settings_id": [
+        "PETG - patofoto - Bambu PETG HF - tuned"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "Voron Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG - patofoto - Bambu PETG HF - tuned",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "pressure_advance": [
+        "0.04"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "version": "2.2.0.4"
+}

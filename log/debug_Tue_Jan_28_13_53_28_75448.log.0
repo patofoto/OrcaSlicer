@@ -1,0 +1,33 @@
+[warning]	2025-01-28 13:53:28.616353[Thread 0x0000000208358240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-28 13:53:28.616941[Thread 0x0000000208358240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-28 13:53:28.617023[Thread 0x0000000208358240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-28 13:53:29.431082[Thread 0x0000000208358240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-28 13:53:29.434793[Thread 0x000000016cb2f000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[error]	2025-01-28 13:53:29.434809[Thread 0x000000016cb2f000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-01-28 13:53:29.434821[Thread 0x000000016cb2f000]:Unable to open the file/Users/pato/Downloads/Skadis_Q-TIP.3mf
+[error]	2025-01-28 13:53:29.434820[Thread 0x000000016cf3b000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[error]	2025-01-28 13:53:29.434826[Thread 0x000000016cb2f000]:Unable to open the file/Users/pato/Downloads/Anti-splash+cover+BambuLab+for+nozzle+wiper.3mf
+[error]	2025-01-28 13:53:29.434830[Thread 0x000000016cf3b000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[warning]	2025-01-28 13:53:29.823738[Thread 0x0000000208358240]:13:53:29: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-28 13:53:29.889839[Thread 0x0000000208358240]:13:53:29: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-28 13:53:29.910557[Thread 0x0000000208358240]:13:53:29: Script message received; value = {"sequence_id":1738090410,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-28 13:53:29.910670[Thread 0x0000000208358240]:13:53:29: Script message received; value = {"sequence_id":1738090410,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-28 13:53:29.920050[Thread 0x0000000208358240]:13:53:29: Script message received; value = {"sequence_id":1738090410,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-28 13:53:29.920239[Thread 0x0000000208358240]:13:53:29: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-28 13:53:30.647674[Thread 0x0000000208358240]:connect_server error: network_agent=0x600002f28400, ret=-2
+[warning]	2025-01-28 13:53:30.864115[Thread 0x000000016fd3f000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-01-28 13:53:37.456535[Thread 0x000000016d753000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456546[Thread 0x000000016df6b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456545[Thread 0x000000016cb2f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456558[Thread 0x000000016cf3b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456559[Thread 0x000000016e783000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456550[Thread 0x000000016eb8f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456672[Thread 0x000000016db5f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456767[Thread 0x000000016d347000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456811[Thread 0x000000016e377000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456853[Thread 0x000000016cf3b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456855[Thread 0x000000016d753000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.456989[Thread 0x000000042022b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.457023[Thread 0x000000016cb2f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:53:37.457172[Thread 0x000000016e783000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-28 13:54:31.687340[Thread 0x0000000208358240]:calc_exclude_triangles:Unable to create exclude triangles

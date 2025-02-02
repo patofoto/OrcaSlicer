@@ -1,0 +1,14 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": "50",
+    "initial_layer_speed": "25",
+    "name": "0.20mm Standard @BBL X1C - Wrapper",
+    "print_settings_id": "0.20mm Standard @BBL X1C - Wrapper",
+    "seam_position": "back",
+    "sparse_infill_density": "40%",
+    "sparse_infill_pattern": "cubic",
+    "version": "1.10.0.32",
+    "wall_loops": "3"
+}

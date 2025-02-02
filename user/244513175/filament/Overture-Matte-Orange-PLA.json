@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#DF8540"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.04"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Overture-Matte-Orange-PLA"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Overture-Matte-Orange-PLA",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "version": "2.2.0.4"
+}

@@ -1,4 +1,5 @@
 {
+    "bottom_shell_layers": "4",
     "enable_support": "1",
     "extra_perimeters_on_overhangs": "1",
     "from": "User",

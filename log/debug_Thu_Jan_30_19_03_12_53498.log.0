@@ -1,0 +1,82 @@
+[warning]	2025-01-30 19:03:12.718672[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-30 19:03:12.721540[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-30 19:03:12.721615[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-30 19:03:13.723567[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:13.728090[Thread 0x000000016d613000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[error]	2025-01-30 19:03:13.728107[Thread 0x000000016d613000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-01-30 19:03:13.728167[Thread 0x000000016e237000]:Unable to open the file/Users/pato/Desktop/Bottom Lid Ender3v2.3mf
+[error]	2025-01-30 19:03:13.728226[Thread 0x000000016d207000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[error]	2025-01-30 19:03:13.728226[Thread 0x000000016d613000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[warning]	2025-01-30 19:03:14.159441[Thread 0x00000001ecf98240]:19:03:14: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 19:03:14.234810[Thread 0x00000001ecf98240]:19:03:14: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 19:03:14.258743[Thread 0x00000001ecf98240]:19:03:14: Script message received; value = {"sequence_id":1738281794,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 19:03:14.259112[Thread 0x00000001ecf98240]:19:03:14: Script message received; value = {"sequence_id":1738281794,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 19:03:14.272775[Thread 0x00000001ecf98240]:19:03:14: Script message received; value = {"sequence_id":1738281794,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 19:03:14.273733[Thread 0x00000001ecf98240]:19:03:14: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-30 19:03:14.891167[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:14.921360[Thread 0x00000001ecf98240]:connect_server error: network_agent=0x6000020e9ec0, ret=-2
+[warning]	2025-01-30 19:03:15.133293[Thread 0x000000016f963000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-01-30 19:03:43.471348[Thread 0x00000001ecf98240]:19:03:43: Script message received; value = {"sequence_id":1738281823,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-01-30 19:03:43.475591[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.720666[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.730586[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.740397[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.749821[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.759206[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.759628[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.759974[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.769375[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.778516[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 19:03:43.787617[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-30 19:03:52.124634[Thread 0x000000016cab3000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2025-01-30 19:04:00.531160[Thread 0x00000004607e3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-01-30 20:03:14.444371[Thread 0x00000001ecf98240]:20:03:14: Script message received; value = {"sequence_id":1738285394,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 22:58:49.903961[Thread 0x00000001ecf98240]:22:58:49: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 22:58:49.939426[Thread 0x00000001ecf98240]:22:58:49: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 22:58:50.618308[Thread 0x00000001ecf98240]:22:58:50: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 22:58:50.667086[Thread 0x00000001ecf98240]:22:58:50: Script message received; value = {"sequence_id":1738295930,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 22:58:50.667265[Thread 0x00000001ecf98240]:22:58:50: Script message received; value = {"sequence_id":1738295930,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 22:58:50.707829[Thread 0x00000001ecf98240]:22:58:50: Script message received; value = {"sequence_id":1738295930,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 22:58:50.708239[Thread 0x00000001ecf98240]:22:58:50: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 22:58:51.227338[Thread 0x00000001ecf98240]:22:58:51: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 22:58:51.240841[Thread 0x00000001ecf98240]:22:58:51: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 22:58:51.244025[Thread 0x00000001ecf98240]:22:58:51: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 22:58:51.255097[Thread 0x00000001ecf98240]:22:58:51: Script message received; value = {"sequence_id":1738295931,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 22:58:51.255966[Thread 0x00000001ecf98240]:22:58:51: Script message received; value = {"sequence_id":1738295931,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 22:58:51.269477[Thread 0x00000001ecf98240]:22:58:51: Script message received; value = {"sequence_id":1738295931,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 22:58:51.270151[Thread 0x00000001ecf98240]:22:58:51: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-30 23:05:59.369334[Thread 0x000000016d613000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.369415[Thread 0x000000016e643000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.369447[Thread 0x000000016f267000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.369465[Thread 0x000000016da1f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.369488[Thread 0x000000016e237000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381151[Thread 0x000000016da1f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381192[Thread 0x000000016f267000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381223[Thread 0x000000016de2b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381252[Thread 0x000000016ee5b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381264[Thread 0x000000016e237000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381290[Thread 0x000000016ea4f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381431[Thread 0x000000016d207000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.381684[Thread 0x000000016e643000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382249[Thread 0x00000004607e3000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382330[Thread 0x000000016e643000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382736[Thread 0x000000016d613000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382905[Thread 0x000000016da1f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382926[Thread 0x000000016f267000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.382971[Thread 0x000000016de2b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.383110[Thread 0x00000004607e3000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.383134[Thread 0x000000016ee5b000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.383264[Thread 0x000000016e237000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.383341[Thread 0x000000016ea4f000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:05:59.384042[Thread 0x000000016d207000]:Had to calculate Placeable Areas at radius 0 and layer 0, but precalculate was called. Performance may suffer!
+[error]	2025-01-30 23:21:02.330363[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 23:21:14.553949[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:21:37.920033[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:21:44.472939[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:21:47.138732[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:21:47.755078[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:21:52.351667[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:22:11.848679[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-30 23:22:18.282758[Thread 0x000000016cab3000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[error]	2025-01-30 23:22:20.638908[Thread 0x00000001ecf98240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-30 23:48:29.542978[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles

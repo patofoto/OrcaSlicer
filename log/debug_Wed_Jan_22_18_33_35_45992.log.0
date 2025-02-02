@@ -1,0 +1,35 @@
+[warning]	2025-01-22 18:33:35.457571[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-22 18:33:35.457718[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-22 18:33:35.457783[Thread 0x00000001fd04c240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-22 18:33:36.547327[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:33:36.551093[Thread 0x0000000174917000]:Unable to open the file/Users/pato/Downloads/Skadis_Q-TIP.3mf
+[error]	2025-01-22 18:33:36.551098[Thread 0x0000000174d23000]:Unable to open the file/Users/pato/Desktop/Gun Stand.3mf
+[error]	2025-01-22 18:33:36.551109[Thread 0x0000000174d23000]:Unable to open the file/Users/pato/Desktop/HDMI7 screen.case.3mf
+[error]	2025-01-22 18:33:36.551115[Thread 0x0000000174917000]:Unable to open the file/Users/pato/Downloads/Anti-splash+cover+BambuLab+for+nozzle+wiper.3mf
+[error]	2025-01-22 18:33:36.551116[Thread 0x0000000174d23000]:Unable to open the file/Users/pato/Desktop/5 Roll Tape Dispenser.3mf
+[error]	2025-01-22 18:33:36.551126[Thread 0x0000000174d23000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[warning]	2025-01-22 18:33:36.990783[Thread 0x00000001fd04c240]:18:33:36: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-22 18:33:37.060785[Thread 0x00000001fd04c240]:18:33:37: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-22 18:33:37.085175[Thread 0x00000001fd04c240]:18:33:37: Script message received; value = {"sequence_id":1737588817,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-22 18:33:37.085517[Thread 0x00000001fd04c240]:18:33:37: Script message received; value = {"sequence_id":1737588817,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-22 18:33:37.088069[Thread 0x00000001fd04c240]:18:33:37: Script message received; value = {"sequence_id":1737588817,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 18:33:37.088252[Thread 0x00000001fd04c240]:18:33:37: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-22 18:33:37.840678[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:33:37.868461[Thread 0x00000001fd04c240]:connect_server error: network_agent=0x600003b84180, ret=-2
+[warning]	2025-01-22 18:33:38.076163[Thread 0x000000044fa93000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-01-22 18:33:40.611842[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-22 18:34:42.335175[Thread 0x00000001741c3000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":34.000000,"clearance_height_to_lid":34.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-01-22 18:49:15.442628[Thread 0x00000001fd04c240]:18:49:15: Script message received; value = {"sequence_id":1737589755,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Lids.3mf"}}, handler = wx
+[error]	2025-01-22 18:49:15.471650[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:49:15.596829[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:49:15.606627[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:49:15.632297[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:49:15.632724[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-22 18:49:15.746218[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 18:49:23.110600[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-01-22 18:49:24.632533[Thread 0x00000001fd04c240]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-01-22 18:49:26.431562[Thread 0x00000001741c3000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2025-01-22 19:33:37.191032[Thread 0x00000001fd04c240]:19:33:37: Script message received; value = {"sequence_id":1737592417,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 20:33:37.189413[Thread 0x00000001fd04c240]:20:33:37: Script message received; value = {"sequence_id":1737596017,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-22 21:33:37.212036[Thread 0x00000001fd04c240]:21:33:37: Script message received; value = {"sequence_id":1737599617,"command":"modelmall_model_advise_get"}, handler = wx
+[error]	2025-01-22 22:29:36.432573[Thread 0x00000001fd04c240]:calc_exclude_triangles:Unable to create exclude triangles

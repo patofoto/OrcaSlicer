@@ -1,0 +1,174 @@
+[warning]	2025-01-30 10:00:40.008694[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-30 10:00:40.008829[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-30 10:00:40.008888[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-30 10:00:40.997641[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:41.001365[Thread 0x0000000170bc3000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[error]	2025-01-30 10:00:41.001371[Thread 0x0000000170fcf000]:Unable to open the file/Users/pato/Desktop/Pentax KX Diopter Cap v2.3mf
+[error]	2025-01-30 10:00:41.001382[Thread 0x0000000170fcf000]:Unable to open the file/Users/pato/Desktop/Bottom Lid Ender3v2.3mf
+[error]	2025-01-30 10:00:41.001381[Thread 0x00000001713db000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[error]	2025-01-30 10:00:41.001393[Thread 0x00000001713db000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-01-30 10:00:41.001400[Thread 0x00000001713db000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[warning]	2025-01-30 10:00:41.454928[Thread 0x00000001ecf98240]:10:00:41: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 10:00:41.521770[Thread 0x00000001ecf98240]:10:00:41: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 10:00:41.545976[Thread 0x00000001ecf98240]:10:00:41: Script message received; value = {"sequence_id":1738249242,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 10:00:41.546340[Thread 0x00000001ecf98240]:10:00:41: Script message received; value = {"sequence_id":1738249242,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 10:00:41.550658[Thread 0x00000001ecf98240]:10:00:41: Script message received; value = {"sequence_id":1738249242,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 10:00:41.551369[Thread 0x00000001ecf98240]:10:00:41: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-30 10:00:42.172321[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:42.201414[Thread 0x00000001ecf98240]:connect_server error: network_agent=0x600001d14710, ret=-2
+[warning]	2025-01-30 10:00:42.430568[Thread 0x0000000177bf7000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[warning]	2025-01-30 10:00:45.335402[Thread 0x00000001ecf98240]:10:00:45: Script message received; value = {"sequence_id":1738249245,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-01-30 10:00:45.339117[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.591799[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.601876[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.611226[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.620545[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.629593[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.629997[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.630391[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.639697[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.649268[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-30 10:00:45.658864[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-30 10:01:09.255381[Thread 0x0000000171fff000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-01-30 11:00:41.785111[Thread 0x00000001ecf98240]:11:00:41: Script message received; value = {"sequence_id":1738252842,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:00:41.784704[Thread 0x00000001ecf98240]:12:00:41: Script message received; value = {"sequence_id":1738256442,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:09:55.621931[Thread 0x0000000171bf3000]:Detected non-planar Voronoi diagram, input polygons will be rotated back and forth.
+[warning]	2025-01-30 12:14:36.266241[Thread 0x00000001ecf98240]:12:14:36: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:14:36.310471[Thread 0x00000001ecf98240]:12:14:36: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:14:36.340875[Thread 0x00000001ecf98240]:12:14:36: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:14:36.381869[Thread 0x00000001ecf98240]:12:14:36: Script message received; value = {"sequence_id":1738257276,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:14:36.381979[Thread 0x00000001ecf98240]:12:14:36: Script message received; value = {"sequence_id":1738257276,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:14:36.389651[Thread 0x00000001ecf98240]:12:14:36: Script message received; value = {"sequence_id":1738257276,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:14:36.389834[Thread 0x00000001ecf98240]:12:14:36: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:14:37.345007[Thread 0x00000001ecf98240]:12:14:37: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:14:37.378555[Thread 0x00000001ecf98240]:12:14:37: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:14:37.393951[Thread 0x00000001ecf98240]:12:14:37: Script message received; value = {"sequence_id":1738257277,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:14:37.394050[Thread 0x00000001ecf98240]:12:14:37: Script message received; value = {"sequence_id":1738257277,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:14:37.405889[Thread 0x00000001ecf98240]:12:14:37: Script message received; value = {"sequence_id":1738257277,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:14:37.406093[Thread 0x00000001ecf98240]:12:14:37: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:14:37.435108[Thread 0x00000001ecf98240]:12:14:37: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:51:47.059813[Thread 0x00000001ecf98240]:12:51:47: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:51:48.007632[Thread 0x00000001ecf98240]:12:51:48: Error; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US', error='wxWEBVIEW_NAV_ERR_OTHER (Frame load interrupted)'
+[warning]	2025-01-30 12:51:48.231489[Thread 0x00000001ecf98240]:12:51:48: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:51:48.234862[Thread 0x00000001ecf98240]:12:51:48: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:51:48.235196[Thread 0x00000001ecf98240]:12:51:48: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:51:48.237886[Thread 0x00000001ecf98240]:12:51:48: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:51:48.246720[Thread 0x00000001ecf98240]:12:51:48: Script message received; value = {"sequence_id":1738259508,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:51:48.246821[Thread 0x00000001ecf98240]:12:51:48: Script message received; value = {"sequence_id":1738259508,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:51:48.251505[Thread 0x00000001ecf98240]:12:51:48: Script message received; value = {"sequence_id":1738259508,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:51:48.251698[Thread 0x00000001ecf98240]:12:51:48: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:57:45.725915[Thread 0x00000001ecf98240]:12:57:45: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:57:45.731238[Thread 0x00000001ecf98240]:12:57:45: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:57:45.745207[Thread 0x00000001ecf98240]:12:57:45: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:57:45.754006[Thread 0x00000001ecf98240]:12:57:45: Script message received; value = {"sequence_id":1738259866,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:57:45.754497[Thread 0x00000001ecf98240]:12:57:45: Script message received; value = {"sequence_id":1738259866,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:57:45.758732[Thread 0x00000001ecf98240]:12:57:45: Script message received; value = {"sequence_id":1738259866,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:57:45.759074[Thread 0x00000001ecf98240]:12:57:45: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:58:59.305894[Thread 0x00000001ecf98240]:12:58:59: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:58:59.319580[Thread 0x00000001ecf98240]:12:58:59: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:58:59.385106[Thread 0x00000001ecf98240]:12:58:59: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:58:59.411449[Thread 0x00000001ecf98240]:12:58:59: Script message received; value = {"sequence_id":1738259939,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:58:59.411559[Thread 0x00000001ecf98240]:12:58:59: Script message received; value = {"sequence_id":1738259939,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:58:59.415573[Thread 0x00000001ecf98240]:12:58:59: Script message received; value = {"sequence_id":1738259939,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:58:59.415765[Thread 0x00000001ecf98240]:12:58:59: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:10.963272[Thread 0x00000001ecf98240]:12:59:10: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:59:11.016382[Thread 0x00000001ecf98240]:12:59:11: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:59:11.030225[Thread 0x00000001ecf98240]:12:59:11: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:11.059770[Thread 0x00000001ecf98240]:12:59:11: Script message received; value = {"sequence_id":1738259951,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:59:11.059880[Thread 0x00000001ecf98240]:12:59:11: Script message received; value = {"sequence_id":1738259951,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:59:11.064686[Thread 0x00000001ecf98240]:12:59:11: Script message received; value = {"sequence_id":1738259951,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:59:11.065660[Thread 0x00000001ecf98240]:12:59:11: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:12.069662[Thread 0x00000001ecf98240]:12:59:12: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:59:12.083158[Thread 0x00000001ecf98240]:12:59:12: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:59:12.090366[Thread 0x00000001ecf98240]:12:59:12: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:12.102476[Thread 0x00000001ecf98240]:12:59:12: Script message received; value = {"sequence_id":1738259952,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:59:12.102678[Thread 0x00000001ecf98240]:12:59:12: Script message received; value = {"sequence_id":1738259952,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:59:12.107189[Thread 0x00000001ecf98240]:12:59:12: Script message received; value = {"sequence_id":1738259952,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:59:12.107975[Thread 0x00000001ecf98240]:12:59:12: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:18.245951[Thread 0x00000001ecf98240]:12:59:18: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:59:18.251030[Thread 0x00000001ecf98240]:12:59:18: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:59:18.266749[Thread 0x00000001ecf98240]:12:59:18: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:18.266890[Thread 0x00000001ecf98240]:12:59:18: Script message received; value = {"sequence_id":1738259958,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:59:18.266977[Thread 0x00000001ecf98240]:12:59:18: Script message received; value = {"sequence_id":1738259958,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:59:18.271478[Thread 0x00000001ecf98240]:12:59:18: Script message received; value = {"sequence_id":1738259958,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:59:18.271716[Thread 0x00000001ecf98240]:12:59:18: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:19.328675[Thread 0x00000001ecf98240]:12:59:19: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 12:59:19.343137[Thread 0x00000001ecf98240]:12:59:19: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 12:59:19.344906[Thread 0x00000001ecf98240]:12:59:19: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 12:59:19.355017[Thread 0x00000001ecf98240]:12:59:19: Script message received; value = {"sequence_id":1738259959,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 12:59:19.355131[Thread 0x00000001ecf98240]:12:59:19: Script message received; value = {"sequence_id":1738259959,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 12:59:19.359989[Thread 0x00000001ecf98240]:12:59:19: Script message received; value = {"sequence_id":1738259959,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 12:59:19.360178[Thread 0x00000001ecf98240]:12:59:19: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:00:06.055567[Thread 0x00000001ecf98240]:13:00:06: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:00:06.107255[Thread 0x00000001ecf98240]:13:00:06: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 13:00:06.108292[Thread 0x00000001ecf98240]:13:00:06: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:00:06.118400[Thread 0x00000001ecf98240]:13:00:06: Script message received; value = {"sequence_id":1738260006,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:00:06.118506[Thread 0x00000001ecf98240]:13:00:06: Script message received; value = {"sequence_id":1738260006,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:00:06.123805[Thread 0x00000001ecf98240]:13:00:06: Script message received; value = {"sequence_id":1738260006,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:00:06.124024[Thread 0x00000001ecf98240]:13:00:06: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:00:17.139393[Thread 0x00000001ecf98240]:13:00:17: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:00:17.170519[Thread 0x00000001ecf98240]:13:00:17: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 13:00:17.173352[Thread 0x00000001ecf98240]:13:00:17: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:00:17.184689[Thread 0x00000001ecf98240]:13:00:17: Script message received; value = {"sequence_id":1738260017,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:00:17.185149[Thread 0x00000001ecf98240]:13:00:17: Script message received; value = {"sequence_id":1738260017,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:00:17.189338[Thread 0x00000001ecf98240]:13:00:17: Script message received; value = {"sequence_id":1738260017,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:00:17.189576[Thread 0x00000001ecf98240]:13:00:17: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:32:59.766124[Thread 0x00000001ecf98240]:13:32:59: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:32:59.772515[Thread 0x00000001ecf98240]:13:32:59: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 13:32:59.863426[Thread 0x00000001ecf98240]:13:32:59: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:00.480880[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261980,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:33:00.480977[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261980,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:33:00.486020[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261980,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:33:00.486219[Thread 0x00000001ecf98240]:13:33:00: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:00.916021[Thread 0x00000001ecf98240]:13:33:00: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:33:00.922113[Thread 0x00000001ecf98240]:13:33:00: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 13:33:00.924499[Thread 0x00000001ecf98240]:13:33:00: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:00.937140[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261981,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:33:00.937256[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261981,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:33:00.942037[Thread 0x00000001ecf98240]:13:33:00: Script message received; value = {"sequence_id":1738261981,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:33:00.942238[Thread 0x00000001ecf98240]:13:33:00: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:08.385011[Thread 0x00000001ecf98240]:13:33:08: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:33:08.405283[Thread 0x00000001ecf98240]:13:33:08: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 13:33:08.441560[Thread 0x00000001ecf98240]:13:33:08: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:08.466610[Thread 0x00000001ecf98240]:13:33:08: Script message received; value = {"sequence_id":1738261988,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:33:08.466714[Thread 0x00000001ecf98240]:13:33:08: Script message received; value = {"sequence_id":1738261988,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:33:08.471352[Thread 0x00000001ecf98240]:13:33:08: Script message received; value = {"sequence_id":1738261988,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:33:08.471559[Thread 0x00000001ecf98240]:13:33:08: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:16.822767[Thread 0x00000001ecf98240]:13:33:16: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 13:33:16.853404[Thread 0x00000001ecf98240]:13:33:16: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:16.864572[Thread 0x00000001ecf98240]:13:33:16: Script message received; value = {"sequence_id":1738261997,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 13:33:16.864689[Thread 0x00000001ecf98240]:13:33:16: Script message received; value = {"sequence_id":1738261997,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 13:33:16.868716[Thread 0x00000001ecf98240]:13:33:16: Script message received; value = {"sequence_id":1738261997,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 13:33:16.870367[Thread 0x00000001ecf98240]:13:33:16: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 13:33:16.918838[Thread 0x00000001ecf98240]:13:33:16: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 14:33:17.096192[Thread 0x00000001ecf98240]:14:33:17: Script message received; value = {"sequence_id":1738265597,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 15:33:17.202634[Thread 0x00000001ecf98240]:15:33:17: Script message received; value = {"sequence_id":1738269197,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 16:12:45.268708[Thread 0x000000017046f000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2025-01-30 16:13:05.544859[Thread 0x000000017046f000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2025-01-30 16:33:17.309984[Thread 0x00000001ecf98240]:16:33:17: Script message received; value = {"sequence_id":1738272797,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 16:43:37.497258[Thread 0x000000017046f000]:Arrange full params: {"min_obj_distance":10000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":0,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"clearance_radius":65.000000,"printable_height":325.000000,
+[warning]	2025-01-30 16:45:05.419955[Thread 0x00000001ecf98240]:16:45:05: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 16:45:05.470897[Thread 0x00000001ecf98240]:16:45:05: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 16:45:05.472062[Thread 0x00000001ecf98240]:16:45:05: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 16:45:05.497373[Thread 0x00000001ecf98240]:16:45:05: Script message received; value = {"sequence_id":1738273505,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 16:45:05.498041[Thread 0x00000001ecf98240]:16:45:05: Script message received; value = {"sequence_id":1738273505,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 16:45:05.503221[Thread 0x00000001ecf98240]:16:45:05: Script message received; value = {"sequence_id":1738273505,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 16:45:05.503487[Thread 0x00000001ecf98240]:16:45:05: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 16:45:06.498335[Thread 0x00000001ecf98240]:16:45:06: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 16:45:06.522586[Thread 0x00000001ecf98240]:16:45:06: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 16:45:06.558172[Thread 0x00000001ecf98240]:16:45:06: Script message received; value = {"sequence_id":1738273507,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 16:45:06.558268[Thread 0x00000001ecf98240]:16:45:06: Script message received; value = {"sequence_id":1738273507,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 16:45:06.562370[Thread 0x00000001ecf98240]:16:45:06: Script message received; value = {"sequence_id":1738273507,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 16:45:06.562575[Thread 0x00000001ecf98240]:16:45:06: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 16:45:06.590878[Thread 0x00000001ecf98240]:16:45:06: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 17:27:01.109024[Thread 0x00000001ecf98240]:17:27:01: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 17:27:01.477410[Thread 0x00000001ecf98240]:17:27:01: Error; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US', error='wxWEBVIEW_NAV_ERR_OTHER (Frame load interrupted)'
+[warning]	2025-01-30 17:27:01.659955[Thread 0x00000001ecf98240]:17:27:01: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-30 17:27:01.663153[Thread 0x00000001ecf98240]:17:27:01: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 17:27:01.663572[Thread 0x00000001ecf98240]:17:27:01: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-30 17:27:01.665632[Thread 0x00000001ecf98240]:17:27:01: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-30 17:27:01.676063[Thread 0x00000001ecf98240]:17:27:01: Script message received; value = {"sequence_id":1738276022,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-30 17:27:01.676182[Thread 0x00000001ecf98240]:17:27:01: Script message received; value = {"sequence_id":1738276022,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-30 17:27:01.680392[Thread 0x00000001ecf98240]:17:27:01: Script message received; value = {"sequence_id":1738276022,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-30 17:27:01.680990[Thread 0x00000001ecf98240]:17:27:01: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-30 17:52:06.171904[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles

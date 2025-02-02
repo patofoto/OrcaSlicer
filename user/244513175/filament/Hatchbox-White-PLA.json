@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Hatchbox-White-PLA"
+    ],
+    "filament_vendor": [
+        "Hatchbox"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Hatchbox-White-PLA",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "210"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "2.2.0.4"
+}

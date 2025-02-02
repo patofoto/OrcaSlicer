@@ -1,11 +1,10 @@
 {
-    "bed_exclude_area": [
-        "0x320",
-        "15x325"
-    ],
     "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME",
     "change_extrusion_role_gcode": "_ADAPTIVE_PA TYPE=[extrusion_role]",
     "change_filament_gcode": "_FIL_CHANGE_PARK",
+    "deretraction_speed": [
+        "35"
+    ],
     "enable_filament_ramming": "0",
     "extra_loading_move": "0",
     "from": "User",
@@ -13,18 +12,17 @@
     "is_custom_defined": "0",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}\nM117 Layer {layer_num+1}/[total_layer_count] : {filament_settings_id[0]}",
     "machine_end_gcode": "; printing object ENDGCODE\nSET_SKEW CLEAR=1\nPRINT_END",
-    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM104 S0\nM140 S0\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[hot_plate_temp_initial_layer] LAYER=[layer_height] FILAMENT=[filament_type] EXCLUDE=[exclude_object] SURFACE=\"[curr_bed_type]\" OAPA=[adaptive_pressure_advance]\nSKEW_PROFILE LOAD=calilantern_skew_profile",
+    "machine_start_gcode": ";============Demon_Klipper_Essentials_Unified G-code==============\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM104 S0\nM140 S0\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[hot_plate_temp_initial_layer] LAYER=[layer_height] FILAMENT=[filament_type] EXCLUDE=[exclude_object] SURFACE=\"[curr_bed_type]\" OAPA=[adaptive_pressure_advance]\n\n;============Calilantern Skew Profile======================\nSKEW_PROFILE LOAD=calilantern_skew_profile",
     "manual_filament_change": "1",
     "name": "Voron 2.4 350 0.4 nozzle - patofoto",
     "nozzle_type": "brass",
     "print_host": "10.0.1.44",
     "printable_area": [
         "0x0",
-        "349x0",
-        "349x335",
-        "0x335"
+        "350x0",
+        "350x330",
+        "0x330"
     ],
-    "printable_height": "320",
     "printer_settings_id": "Voron 2.4 350 0.4 nozzle - patofoto",
     "printer_structure": "corexy",
     "purge_in_prime_tower": "0",
@@ -37,6 +35,10 @@
     "retraction_minimum_travel": [
         "2"
     ],
+    "retraction_speed": [
+        "35"
+    ],
+    "support_multi_bed_types": "1",
     "time_cost": "7",
     "version": "1.8.0.0",
     "wipe_distance": [

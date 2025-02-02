@@ -1,0 +1,53 @@
+[warning]	2025-01-31 20:11:40.917142[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-31 20:11:40.917370[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-01-31 20:11:40.917423[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-01-31 20:11:40.917469[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-31 20:11:40.917526[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-31 20:11:41.797014[Thread 0x0000000170aef000]:Unable to open the file/Users/pato/Desktop/Lids.3mf
+[error]	2025-01-31 20:11:41.797059[Thread 0x0000000170aef000]:Unable to open the file/Users/pato/Desktop/Pentax KX Diopter Cap v2.3mf
+[error]	2025-01-31 20:11:41.797084[Thread 0x0000000171b1f000]:Unable to open the file/Users/pato/Desktop/Bottom Lid Ender3v2.3mf
+[error]	2025-01-31 20:11:41.797090[Thread 0x0000000171f2b000]:Unable to open the file/Users/pato/Desktop/Top Lid Voron.3mf
+[error]	2025-01-31 20:11:41.797976[Thread 0x00000001706e3000]:Unable to open the file/Users/pato/Downloads/Pentax KX Diopter Base.3mf
+[error]	2025-01-31 20:11:41.797995[Thread 0x0000000170aef000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[warning]	2025-01-31 20:11:42.234371[Thread 0x00000001ecf98240]:20:11:42: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-31 20:11:42.302544[Thread 0x00000001ecf98240]:20:11:42: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-31 20:11:42.322307[Thread 0x00000001ecf98240]:20:11:42: Script message received; value = {"sequence_id":1738372302,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-31 20:11:42.322460[Thread 0x00000001ecf98240]:20:11:42: Script message received; value = {"sequence_id":1738372302,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-31 20:11:42.327137[Thread 0x00000001ecf98240]:20:11:42: Script message received; value = {"sequence_id":1738372302,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-31 20:11:42.327321[Thread 0x00000001ecf98240]:20:11:42: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-31 20:11:43.808181[Thread 0x0000000176ab7000]:[install_plugin]: 1381, got 47 files
+[warning]	2025-01-31 20:11:44.445891[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-31 20:11:44.445964[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_bind_detect
+[warning]	2025-01-31 20:11:44.446014[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_set_server_callback
+[warning]	2025-01-31 20:11:44.446061[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-31 20:11:44.446116[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2025-01-31 20:11:44.751798[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-31 20:11:44.751875[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-31 20:11:44.751937[Thread 0x00000001ecf98240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-31 20:11:52.034762[Thread 0x00000001ecf98240]:connect_server error: network_agent=0x600002046260, ret=-2
+[warning]	2025-01-31 20:11:52.259045[Thread 0x000000016f57f000]:[Orca Updater]: online version=1.10.1.1, current_version=1.10.1.1, no need to download
+[warning]	2025-01-31 20:11:55.321456[Thread 0x00000001ecf98240]:20:11:55: Script message received; value = {"sequence_id":1738372315,"command":"homepage_open_recentfile","data":{"path":"/Users/pato/Desktop/Gridfinity Trays/Top Drawers.3mf"}}, handler = wx
+[error]	2025-01-31 20:11:55.679705[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.680165[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.680602[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.680968[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.681379[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.681774[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.682160[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.682509[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-31 20:11:55.682843[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-01-31 20:34:36.522493[Thread 0x00000001ecf98240]:20:34:36: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-31 20:34:36.527862[Thread 0x00000001ecf98240]:20:34:36: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-31 20:34:36.576001[Thread 0x00000001ecf98240]:20:34:36: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-31 20:34:37.235526[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373677,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-31 20:34:37.235641[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373677,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-31 20:34:37.244616[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373677,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-31 20:34:37.244884[Thread 0x00000001ecf98240]:20:34:37: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-31 20:34:37.628703[Thread 0x00000001ecf98240]:20:34:37: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-31 20:34:37.638272[Thread 0x00000001ecf98240]:20:34:37: Warning: Error running JavaScript: TypeError: null is not an object (evaluating 'video.setAttribute')
+[warning]	2025-01-31 20:34:37.641781[Thread 0x00000001ecf98240]:20:34:37: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-31 20:34:37.653145[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373678,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-31 20:34:37.653262[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373678,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-31 20:34:37.657910[Thread 0x00000001ecf98240]:20:34:37: Script message received; value = {"sequence_id":1738373678,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-31 20:34:37.658115[Thread 0x00000001ecf98240]:20:34:37: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-31 21:24:20.702923[Thread 0x00000001ecf98240]:calc_exclude_triangles:Unable to create exclude triangles

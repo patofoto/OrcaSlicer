@@ -1,0 +1,19 @@
+[warning]	2025-01-24 14:38:16.060910[Thread 0x00000002007cc240]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-01-24 14:38:16.061067[Thread 0x00000002007cc240]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-01-24 14:38:16.061129[Thread 0x00000002007cc240]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-01-24 14:38:17.075734[Thread 0x00000002007cc240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-24 14:38:17.079825[Thread 0x0000000170f0b000]:Unable to open the file/Users/pato/Downloads/Vase.3mf
+[error]	2025-01-24 14:38:17.079834[Thread 0x0000000171723000]:Unable to open the file/Users/pato/Downloads/Anti-splash+cover+BambuLab+for+nozzle+wiper.3mf
+[error]	2025-01-24 14:38:17.079831[Thread 0x0000000172b5f000]:Unable to open the file/Users/pato/Desktop/Gun Stand.3mf
+[error]	2025-01-24 14:38:17.079866[Thread 0x0000000171b2f000]:Unable to open the file/Users/pato/Downloads/Skadis_Q-TIP.3mf
+[error]	2025-01-24 14:38:17.079870[Thread 0x0000000170f0b000]:Unable to open the file/Users/pato/Desktop/HDMI7 screen.case.3mf
+[warning]	2025-01-24 14:38:17.434848[Thread 0x00000002007cc240]:14:38:17: Navigation request to 'file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-01-24 14:38:17.506350[Thread 0x00000002007cc240]:14:38:17: Navigation complete; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-01-24 14:38:17.530405[Thread 0x00000002007cc240]:14:38:17: Script message received; value = {"sequence_id":1737747498,"command":"get_login_info"}, handler = wx
+[warning]	2025-01-24 14:38:17.530855[Thread 0x00000002007cc240]:14:38:17: Script message received; value = {"sequence_id":1737747498,"command":"get_recent_projects"}, handler = wx
+[warning]	2025-01-24 14:38:17.533211[Thread 0x00000002007cc240]:14:38:17: Script message received; value = {"sequence_id":1737747498,"command":"modelmall_model_advise_get"}, handler = wx
+[warning]	2025-01-24 14:38:17.533828[Thread 0x00000002007cc240]:14:38:17: Document loaded; url='file:///Applications/OrcaSlicer.app/Contents/Resources/web/homepage/index.html?lang=en_US'
+[error]	2025-01-24 14:38:18.164672[Thread 0x00000002007cc240]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-01-24 14:38:18.194680[Thread 0x00000002007cc240]:connect_server error: network_agent=0x60000302b530, ret=-2
+[warning]	2025-01-24 14:38:18.456438[Thread 0x000000045342f000]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-01-24 14:38:35.250109[Thread 0x00000002007cc240]:calc_exclude_triangles:Unable to create exclude triangles
